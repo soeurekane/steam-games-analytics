@@ -1,0 +1,914 @@
+appid,name,is_free,required_age,developers,publishers,genres,recommendations,release_date,windows,mac,linux,price
+730,Counter-Strike 2,True,0,['Valve'],['Valve'],"['Action', 'Free To Play']",5251179,"21 Aug, 2012",True,False,True,0.0
+1172470,Apex Legends™,True,0,['Respawn'],['Electronic Arts'],"['Action', 'Adventure', 'Free To Play']",1580,"4 Nov, 2020",True,False,False,0.0
+578080,PUBG: BATTLEGROUNDS,True,19,['PUBG Corporation'],"['KRAFTON, Inc.']","['Action', 'Adventure', 'Massively Multiplayer', 'Free To Play']",1763188,"21 Dec, 2017",True,False,False,0.0
+1623730,Palworld,False,0,['Pocketpair'],['Pocketpair'],"['Action', 'Adventure', 'Indie', 'RPG']",407997,"9 Jul, 2026",True,False,False,20.29
+440,Team Fortress 2,True,0,['Valve'],['Valve'],"['Action', 'Free To Play']",47800,"10 Oct, 2007",True,False,True,0.0
+1938090,Call of Duty®,False,18,"['Treyarch', 'Raven Software', 'Beenox', 'High Moon Studios', 'Sledgehammer Games', 'Infinity Ward', 'Activision Shanghai', 'Demonware']",['Activision'],['Action'],411379,"27 Oct, 2022",True,False,False,0.0
+1063730,New World: Aeternum,False,0,['Amazon Game Studios'],['Amazon Game Studios'],"['Action', 'Adventure', 'Massively Multiplayer', 'RPG']",254201,"28 Sep, 2021",True,False,False,0.0
+2358720,Black Myth: Wukong,False,13,['Game Science'],['Game Science'],"['Action', 'Adventure', 'RPG']",879875,"19 Aug, 2024",True,False,False,79.99
+271590,Grand Theft Auto V Legacy,False,17,['Rockstar North'],['Rockstar Games'],"['Action', 'Adventure']",1893536,"13 Apr, 2015",True,False,False,0.0
+550,Left 4 Dead 2,False,0,['Valve'],['Valve'],['Action'],814591,"16 Nov, 2009",True,False,True,9.75
+304930,Unturned,True,0,['Smartly Dressed Games'],['Smartly Dressed Games'],"['Action', 'Adventure', 'Casual', 'Indie', 'Free To Play']",7496,"7 Jul, 2017",True,True,True,0.0
+1599340,Lost Ark,True,18,['Smilegate RPG'],['Amazon Game Studios'],"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",65169,"11 Feb, 2022",True,False,False,0.0
+236390,War Thunder,True,0,['Gaijin Entertainment'],['Gaijin Network Ltd'],"['Action', 'Massively Multiplayer', 'Simulation', 'Free To Play']",1990,"15 Aug, 2013",True,True,True,0.0
+2246340,Monster Hunter Wilds,False,0,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']","['Action', 'Adventure', 'RPG']",200045,"Feb 27, 2025",True,False,False,39.99
+553850,HELLDIVERS™ 2,False,18,['Arrowhead Game Studios'],['PlayStation Publishing LLC'],['Action'],837283,"8 Feb, 2024",True,False,False,39.99
+230410,Warframe,True,18,['Digital Extremes'],['Digital Extremes'],"['Action', 'RPG', 'Free To Play']",2879,"25 Mar, 2013",True,False,False,0.0
+1245620,ELDEN RING,False,16,"['FromSoftware, Inc.']","['FromSoftware, Inc.', 'Bandai Namco Entertainment']","['Action', 'RPG']",829843,"24 Feb, 2022",True,False,False,2399.0
+105600,Terraria,False,0,['Re-Logic'],['Re-Logic'],"['Action', 'Adventure', 'Indie', 'RPG']",1237008,"16 May, 2011",True,True,True,4.87
+2694490,Path of Exile 2,False,0,['Grinding Gear Games'],['Grinding Gear Games'],"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Early Access']",166853,"6 Dec, 2024",True,False,False,27.75
+431960,Wallpaper Engine,False,0,['Wallpaper Engine Team'],['Wallpaper Engine Team'],"['Casual', 'Indie', 'Animation & Modeling', 'Design & Illustration', 'Photo Editing', 'Utilities']",942093,"16 Nov, 2018",True,False,False,4.99
+1086940,Baldur's Gate 3,False,18,['Larian Studios'],['Larian Studios'],"['Adventure', 'RPG', 'Strategy']",753344,"3 Aug, 2023",True,True,False,59.99
+291550,Brawlhalla,True,0,['Blue Mammoth Games'],['Ubisoft'],"['Action', 'Indie', 'Free To Play']",2888,"17 Oct, 2017",True,True,False,0.0
+4000,Garry's Mod,False,0,['Facepunch Studios'],['Valve'],"['Casual', 'Indie', 'Simulation']",1090643,"29 Nov, 2006",True,True,True,9.99
+1085660,Destiny 2,True,0,['Bungie'],['Bungie'],"['Action', 'Adventure', 'Free To Play']",139365,"1 Oct, 2019",True,False,False,0.0
+359550,Tom Clancy's Rainbow Six Siege,True,0,['Ubisoft Montreal'],['Ubisoft'],"['Action', 'Free To Play']",1252129,"1 Dec, 2015",True,False,False,0.0
+252490,Rust,False,0,['Facepunch Studios'],['Facepunch Studios'],"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",1165025,"8 Feb, 2018",True,True,False,39.99
+552990,World of Warships,True,0,['Wargaming Group Limited'],['Wargaming Group Limited'],"['Action', 'Massively Multiplayer', 'Simulation', 'Strategy', 'Free To Play']",2032,"15 Nov, 2017",True,False,False,0.0
+346110,ARK: Survival Evolved,False,0,"['Studio Wildcard', 'Instinct Games', 'Efecto Studios', 'Virtual Basement LLC']","['Studio Wildcard', 'Snail Games USA']","['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",585985,"27 Aug, 2017",True,True,False,9.76
+413150,Stardew Valley,False,0,['ConcernedApe'],['ConcernedApe'],"['Indie', 'RPG', 'Simulation']",891865,"26 Feb, 2016",True,True,True,13.99
+242760,The Forest,False,0,['Endnight Games Ltd'],['Endnight Games Ltd'],"['Action', 'Adventure', 'Indie', 'Simulation']",580068,"30 Apr, 2018",True,False,False,3.69
+1491000,War Robots: Frontiers,True,0,['MY.GAMES'],['MY.GAMES'],"['Action', 'Simulation', 'Free To Play']",739,"4 Mar, 2025",True,False,False,0.0
+238960,Path of Exile,True,0,['Grinding Gear Games'],['Grinding Gear Games'],"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Free To Play']",1027,"23 Oct, 2013",True,True,False,0.0
+218620,PAYDAY 2,False,18,['OVERKILL - a Starbreeze Studio.'],['Starbreeze Entertainment'],"['Action', 'RPG']",445235,"13 Aug, 2013",True,False,False,4.74
+291480,Warface: Clutch,False,16,['MY.GAMES'],['MY.GAMES'],"['Action', 'Massively Multiplayer', 'Free To Play']",907,"1 Jul, 2014",True,False,False,0.0
+12210,Grand Theft Auto IV: Complete Edition,False,0,"['Rockstar North', 'Rockstar Toronto']",['Rockstar Games'],"['Action', 'Adventure']",179754,,True,False,False,0.0
+899770,Last Epoch,False,0,['Eleventh Hour Games'],"['Eleventh Hour Games', 'KRAFTON, Inc']","['Action', 'Adventure', 'Indie', 'RPG']",106522,"21 Feb, 2024",True,False,False,33.99
+340,Half-Life 2: Lost Coast,False,0,['Valve'],['Valve'],['Action'],10514,"27 Oct, 2005",True,False,True,0.0
+1091500,Cyberpunk 2077,False,18,['CD PROJEKT RED'],['CD PROJEKT RED'],['RPG'],887089,"9 Dec, 2020",True,True,False,59.99
+381210,Dead by Daylight,False,17,['Behaviour Interactive Inc.'],['Behaviour Interactive Inc.'],['Action'],683349,"Jun 14, 2016",True,False,False,19.99
+990080,Hogwarts Legacy,False,0,['Avalanche Software'],['Warner Bros. Games'],"['Action', 'Adventure', 'RPG']",273813,"10 Feb, 2023",True,False,False,79900.0
+438100,VRChat,True,0,['VRChat Inc.'],['VRChat Inc.'],"['Adventure', 'Casual', 'Massively Multiplayer', 'Simulation', 'Sports', 'Free To Play', 'Early Access']",146,"Feb 1, 2017",True,False,False,0.0
+292030,The Witcher 3: Wild Hunt - Complete Edition,False,18,['CD PROJEKT RED'],['CD PROJEKT RED'],['RPG'],831611,"18 May, 2015",True,False,False,49.99
+945360,Among Us,False,0,['Innersloth'],['Innersloth'],['Casual'],657573,"16 Nov, 2018",True,False,False,2.69
+1097150,Fall Guys,False,0,['Mediatonic'],[],"['Action', 'Casual', 'Indie', 'Massively Multiplayer', 'Sports']",411607,"3 Aug, 2020",True,False,False,0.0
+49520,Borderlands 2,False,17,"['Gearbox Software', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']","['Action', 'RPG']",215386,"20 Sep, 2012",True,True,True,29.99
+227300,Euro Truck Simulator 2,False,0,['SCS Software'],['SCS Software'],"['Indie', 'Simulation']",782923,"12 Oct, 2012",True,True,True,19.99
+892970,Valheim,False,0,['Iron Gate AB'],['Coffee Stain Publishing'],"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",458251,"2 Feb, 2021",True,True,True,29.99
+739630,Phasmophobia,False,0,['Kinetic Games'],['Kinetic Games'],"['Action', 'Indie', 'Early Access']",683195,"18 Sep, 2020",True,False,False,13.29
+444090,Paladins®,True,0,['Evil Mojo Games'],['Hi-Rez Studios'],"['Action', 'Adventure', 'Massively Multiplayer', 'Strategy', 'Free To Play']",8720,"8 May, 2018",True,False,False,0.0
+1203220,NARAKA: BLADEPOINT,True,0,['24 Entertainment'],['NetEase Games '],"['Action', 'Adventure', 'Massively Multiplayer', 'Free To Play']",197943,"11 Aug, 2021",True,False,False,0.0
+320,Half-Life 2: Deathmatch,False,0,['Valve'],['Valve'],['Action'],10235,"1 Nov, 2004",True,False,True,0.0
+70,Half-Life,False,0,['Valve'],['Valve'],['Action'],117094,"19 Nov, 1998",True,True,True,8.19
+582010,Monster Hunter: World,False,0,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']",['Action'],320411,"8 Aug, 2018",True,False,False,29.99
+227940,Heroes & Generals,False,0,['TLM Partners'],['TLM Partners'],"['Action', 'Free To Play', 'Indie', 'Massively Multiplayer', 'Strategy']",2342,"18 Oct, 2016",True,False,False,0.0
+252950,Rocket League®,False,0,['Psyonix LLC'],['Psyonix LLC'],"['Action', 'Indie', 'Racing', 'Sports']",435839,"6 Jul, 2015",True,False,False,0.0
+108600,Project Zomboid,False,0,['The Indie Stone'],['The Indie Stone'],"['Indie', 'RPG', 'Simulation', 'Early Access']",361947,"8 Nov, 2013",True,True,True,17.07
+1966720,Lethal Company,False,0,['Zeekerss'],['Zeekerss'],"['Action', 'Adventure', 'Indie', 'Early Access']",411334,"23 Oct, 2023",True,False,False,9.75
+1174180,Red Dead Redemption 2,False,0,['Rockstar Games'],['Rockstar Games'],"['Action', 'Adventure']",840966,"5 Dec, 2019",True,False,False,14.99
+1517290,Battlefield™ 2042,False,17,['DICE'],['Electronic Arts'],"['Action', 'Adventure', 'Casual']",260245,"19 Nov, 2021",True,False,False,79.99
+1240440,Halo Infinite,True,0,['343 Industries'],['Xbox Game Studios'],"['Action', 'Free To Play']",34769,"15 Nov, 2021",True,False,False,0.0
+648800,Raft,False,0,['Redbeet Interactive'],['Axolot Games'],"['Adventure', 'Indie', 'Simulation']",322855,"20 Jun, 2022",True,False,False,13.72
+386360,SMITE®,True,0,['Titan Forge Games'],['Hi-Rez Studios'],"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy', 'Free To Play']",1388,"8 Sep, 2015",True,False,False,0.0
+444200,World of Tanks Blitz,True,0,['Wargaming Group Limited'],['Wargaming Group Limited'],"['Action', 'Massively Multiplayer', 'Simulation', 'Strategy', 'Free To Play']",928,"9 Nov, 2016",True,True,False,0.0
+10,Counter-Strike,False,0,['Valve'],['Valve'],['Action'],169602,"1 Nov, 2000",True,True,True,8.19
+240,Counter-Strike: Source,False,0,['Valve'],['Valve'],['Action'],135306,"1 Nov, 2004",True,False,True,9.75
+3164500,Schedule I,False,0,['TVGS'],['TVGS'],"['Action', 'Indie', 'Simulation', 'Strategy', 'Early Access']",287697,"24 Mar, 2025",True,False,False,19.5
+755790,Ring of Elysium,False,0,['Aurora Studio'],['TCH Scarlet Limited'],"['Action', 'Free To Play', 'Massively Multiplayer']",712,"24 Jun, 2019",True,False,False,0.0
+400,Portal,False,0,['Valve'],['Valve'],['Action'],173227,"10 Oct, 2007",True,False,True,9.75
+1222670,The Sims™ 4,True,0,['Maxis'],['Electronic Arts'],"['Adventure', 'Casual', 'Simulation', 'Free To Play']",83303,"18 Jun, 2020",True,False,False,0.0
+550650,Black Squad,True,0,"['VALOFE', 'NS STUDIO']",['VALOFE'],"['Action', 'Free To Play']",0,"26 Jun, 2019",True,False,False,0.0
+322330,Don't Starve Together,False,0,['Klei Entertainment'],['Klei Entertainment'],"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']",375631,"21 Apr, 2016",True,True,True,5.09
+239140,Dying Light,False,18,['Techland'],['Techland'],"['Action', 'Adventure', 'RPG']",377771,"26 Jan, 2015",True,True,True,24.99
+477160,Human Fall Flat,False,0,['No Brakes Games'],['Curve Games'],"['Adventure', 'Casual', 'Indie', 'Simulation']",174679,"22 Jul, 2016",True,True,False,19.99
+251570,7 Days to Die,False,0,['The Fun Pimps'],['The Fun Pimps Entertainment LLC'],"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']",278924,"25 Jul, 2024",True,True,True,24.19
+80,Counter-Strike: Condition Zero,False,0,['Valve'],['Valve'],['Action'],21411,"1 Mar, 2004",True,True,True,8.19
+1665460,eFootball™,True,0,['KONAMI'],['KONAMI'],"['Simulation', 'Sports', 'Free To Play']",1207,"29 Sep, 2021",True,False,False,0.0
+417910,Street Warriors Online,False,0,['Crazy Rocks Studios'],['Crazy Rocks Studios'],"['Action', 'Massively Multiplayer', 'Simulation', 'Sports']",323,"16 Dec, 2016",True,False,False,1.99
+433850,Z1 Battle Royale,True,0,['Daybreak Game Company'],['Daybreak Game Company'],"['Action', 'Adventure', 'Free To Play', 'Massively Multiplayer']",142916,"Feb 28, 2018",True,False,False,0.0
+594650,Hunt: Showdown 1896,False,18,['Crytek'],['Crytek'],['Action'],212388,"27 Aug, 2019",True,False,False,29.99
+814380,Sekiro™: Shadows Die Twice - GOTY Edition,False,17,"['FromSoftware, Inc.']","['Activision (Excluding Japan and Asia)', 'FromSoftware, Inc. (Japan)', '方块游戏 (Asia)']","['Action', 'Adventure']",259028,"21 Mar, 2019",True,False,False,31.99
+1116170,CyberCorp,False,0,['Megame LLC'],['Megame LLC'],"['Action', 'Adventure', 'Indie', 'RPG']",351,"22 Apr, 2025",True,False,False,14.79
+220,Half-Life 2,False,0,['Valve'],['Valve'],['Action'],202347,"16 Nov, 2004",True,False,True,9.75
+107410,Arma 3,False,0,['Bohemia Interactive'],['Bohemia Interactive'],"['Action', 'Simulation', 'Strategy']",230769,"12 Sep, 2013",True,True,False,29.99
+1326470,Sons Of The Forest,False,0,['Endnight Games Ltd'],['Newnight '],"['Action', 'Adventure', 'Indie', 'Simulation']",282925,"22 Feb, 2024",True,False,False,8.69
+219990,Grim Dawn,False,0,['Crate Entertainment'],['Crate Entertainment'],"['Action', 'Adventure', 'Indie', 'RPG']",92619,"25 Feb, 2016",True,False,False,3.89
+255710,Cities: Skylines,False,0,['Colossal Order'],['Paradox Interactive'],"['Simulation', 'Strategy']",220202,"10 Mar, 2015",True,True,True,27.99
+261550,Mount & Blade II: Bannerlord,False,0,['TaleWorlds Entertainment'],['TaleWorlds Entertainment'],"['Action', 'Indie', 'RPG', 'Simulation', 'Strategy']",230038,"25 Oct, 2022",True,False,False,49.99
+8930,Sid Meier's Civilization® V,False,0,"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",['Strategy'],128063,"23 Sep, 2010",True,True,True,29.99
+304050,Trove,True,0,['gamigo US Inc.'],['gamigo US Inc.'],"['Action', 'Adventure', 'Casual', 'Massively Multiplayer', 'RPG', 'Free To Play']",952,"9 Jul, 2015",True,False,False,0.0
+289070,Sid Meier’s Civilization® VI,False,0,"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",['Strategy'],275636,"20 Oct, 2016",True,True,True,59.99
+377160,Fallout 4,False,18,['Bethesda Game Studios'],['Bethesda Softworks'],['RPG'],290224,"9 Nov, 2015",True,False,False,19.99
+532210,Life is Strange 2,True,18,"['DONTNOD Entertainment', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['Square Enix', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Adventure'],22743,"26 Sep, 2018",True,True,True,0.0
+2186680,"Warhammer 40,000: Rogue Trader",False,0,['Owlcat Games'],['Owlcat Games'],"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy']",33477,"7 Dec, 2023",True,True,False,49.99
+1238810,Battlefield™ V,False,0,['DICE'],['Electronic Arts'],['Action'],236475,"22 Oct, 2020",True,False,False,49.99
+3241660,R.E.P.O.,False,0,['semiwork'],['semiwork'],"['Action', 'Early Access']",338887,"26 Feb, 2025",True,False,False,9.49
+221100,DayZ,False,18,['Bohemia Interactive'],['Bohemia Interactive'],"['Action', 'Adventure', 'Massively Multiplayer']",387190,"13 Dec, 2018",True,False,False,23.99
+526870,Satisfactory,False,0,['Coffee Stain Studios'],['Coffee Stain Publishing'],"['Adventure', 'Indie', 'Simulation', 'Strategy']",234474,"10 Sep, 2024",True,False,False,38.99
+1089350,NBA 2K20,False,0,['Visual Concepts'],['2K'],"['Simulation', 'Sports']",46579,"6 Sep, 2019",True,False,False,0.0
+632360,Risk of Rain 2,False,0,['Hopoo Games'],"['Gearbox Publishing', '2K']","['Action', 'Indie']",239633,"11 Aug, 2020",True,False,False,8.24
+1811260,EA SPORTS™ FIFA 23,False,0,"['EA Canada', 'EA Romania']",['Electronic Arts'],"['Simulation', 'Sports']",123685,"30 Sep, 2022",True,False,False,0.0
+204360,Castle Crashers®,False,0,['The Behemoth'],['The Behemoth'],"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",109380,"26 Sep, 2012",True,True,False,11.99
+218230,PlanetSide 2,True,0,['Rogue Planet Games'],['Daybreak Game Company'],"['Action', 'Massively Multiplayer', 'Free To Play']",576,"20 Nov, 2012",True,False,False,0.0
+72850,The Elder Scrolls V: Skyrim,False,18,['Bethesda Game Studios'],['Bethesda Softworks'],['RPG'],181009,"10 Nov, 2011",True,False,False,14.99
+394360,Hearts of Iron IV,False,0,['Paradox Development Studio'],['Paradox Interactive'],"['Simulation', 'Strategy']",282604,"6 Jun, 2016",True,True,True,49.99
+489830,The Elder Scrolls V: Skyrim Special Edition,False,18,['Bethesda Game Studios'],['Bethesda Softworks'],['RPG'],218535,"27 Oct, 2016",True,False,False,39.99
+322170,Geometry Dash,False,0,['RobTop Games'],['RobTop Games'],"['Action', 'Indie']",592124,"22 Dec, 2014",True,True,False,4.99
+1446780,MONSTER HUNTER RISE,False,0,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']",['Action'],79596,"12 Jan, 2022",True,False,False,39.99
+224260,No More Room in Hell,True,0,['No More Room in Hell Team'],['Lever Games'],"['Action', 'Indie', 'Free To Play']",699,"31 Oct, 2013",True,False,True,0.0
+203160,Tomb Raider Game of the Year,False,18,"['Crystal Dynamics', 'Eidos-Montréal', 'Feral Interactive (Mac)', 'Nixxes']","['Crystal Dynamics', 'Feral Interactive (Mac)']","['Action', 'Adventure']",172706,"4 Mar, 2013",True,True,False,2.99
+275850,No Man's Sky,False,0,['Hello Games'],['Hello Games'],"['Action', 'Adventure']",312111,"12 Aug, 2016",True,True,False,58.99
+367520,Hollow Knight,False,0,['Team Cherry'],['Team Cherry'],"['Action', 'Adventure', 'Indie']",501332,"24 Feb, 2017",True,True,True,14.79
+301520,Robocraft,False,0,['Freejam'],['Freejam'],"['Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'Free To Play']",2398,"24 Aug, 2017",True,True,True,0.0
+767560,War Robots,True,0,['MY.GAMES'],['MY.GAMES'],"['Action', 'Free To Play']",0,"4 Apr, 2018",True,False,False,0.0
+2050650,Resident Evil 4,False,18,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']","['Action', 'Adventure']",185162,"23 Mar, 2023",True,False,False,29.99
+466240,Deceit,False,0,['World Makers'],['World Makers'],"['Action', 'Indie', 'Free To Play']",2494,"3 Mar, 2017",True,False,False,0.0
+284160,BeamNG.drive,False,0,['BeamNG'],['BeamNG'],"['Racing', 'Simulation', 'Early Access']",386507,"29 May, 2015",True,False,False,29.99
+278360,A Story About My Uncle,False,0,['Gone North Games'],['Coffee Stain Publishing'],"['Adventure', 'Casual', 'Indie']",12172,"28 May, 2014",True,True,True,14.99
+264710,Subnautica,False,0,['Unknown Worlds Entertainment'],['Unknown Worlds Entertainment'],"['Adventure', 'Indie']",340508,"23 Jan, 2018",True,True,False,7.49
+80,Counter-Strike: Condition Zero,False,0,['Valve'],['Valve'],['Action'],21411,"1 Mar, 2004",True,True,True,8.19
+370910,Kathy Rain,False,0,['Clifftop Games'],['Raw Fury'],"['Adventure', 'Indie']",1855,"5 May, 2016",True,True,False,9.99
+40,Deathmatch Classic,False,0,['Valve'],['Valve'],['Action'],2452,"1 Jun, 2001",True,True,True,4.99
+275390,Guacamelee! Super Turbo Championship Edition,False,0,['Drinkbox Studios'],"['Drinkbox Studios', 'Kepler Ghost']","['Action', 'Adventure', 'Indie']",2625,"21 Aug, 2014",True,False,False,4.49
+2881650,Content Warning,False,0,"['Zorro', 'Wilnyl', 'Philip', 'thePetHen', 'Skog']",['Evil Landfall?'],"['Action', 'Adventure', 'Indie']",72118,"1 Apr, 2024",True,False,False,4.64
+311210,Call of Duty®: Black Ops III,False,18,"['Treyarch', 'Aspyr (Mac)']","['Activision', 'Aspyr (Mac)']","['Action', 'Adventure']",156814,"5 Nov, 2015",True,True,False,59.99
+333930,Dirty Bomb®,True,0,['Splash Damage'],['Warchest Ltd.'],"['Action', 'Free To Play']",1262,"2 Jun, 2015",True,False,False,0.0
+1172620,Sea of Thieves: 2026 Edition,False,0,['Rare Ltd'],['Xbox Game Studios'],"['Action', 'Adventure']",321875,"3 Jun, 2020",True,False,False,39.99
+250900,The Binding of Isaac: Rebirth,False,0,"['Nicalis, Inc.', 'Edmund McMillen']","['Nicalis, Inc.']",['Action'],411320,"Nov 4, 2014",True,True,True,14.99
+700330,SCP: Secret Laboratory,True,0,['Northwood Studios'],['Northwood Studios'],"['Action', 'Casual', 'Indie', 'RPG', 'Free To Play']",0,"29 Dec, 2017",True,False,False,0.0
+10180,Call of Duty®: Modern Warfare® 2 (2009),False,0,['Infinity Ward'],['Activision'],['Action'],35648,"11 Nov, 2009",True,True,False,19.99
+582660,Black Desert,False,0,['Pearl Abyss'],['Pearl Abyss'],"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Strategy']",62966,"24 May, 2017",True,False,False,9.99
+1229490,ULTRAKILL,False,0,"['Arsi ""Hakita"" Patala']",['New Blood Interactive'],"['Action', 'Indie', 'Early Access']",212443,"3 Sep, 2020",True,False,False,21.49
+1046930,Dota Underlords,True,0,['Valve'],['Valve'],"['Casual', 'Strategy', 'Free To Play']",0,"20 Jun, 2019",True,True,True,0.0
+1426210,It Takes Two,False,0,['Hazelight Studios'],['Electronic Arts'],"['Action', 'Adventure']",218041,"25 Mar, 2021",True,False,False,39.99
+2195250,EA SPORTS FC™ 24,False,0,"['EA Canada', 'EA Romania']",['Electronic Arts'],"['Simulation', 'Sports']",94349,"28 Sep, 2023",True,False,False,0.0
+2183900,"Warhammer 40,000: Space Marine 2",False,18,['Saber Interactive'],['Focus Entertainment'],"['Action', 'Adventure', 'RPG']",166751,"9 Sep, 2024",True,False,False,59.99
+883710,Resident Evil 2,False,0,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']",['Action'],155293,"24 Jan, 2019",True,False,False,49.9
+219640,Chivalry: Medieval Warfare,False,0,['Torn Banner Studios'],['Torn Banner Studios'],"['Action', 'Indie']",44498,"16 Oct, 2012",True,True,True,22.99
+306130,The Elder Scrolls® Online,False,17,['ZeniMax Online Studios'],['Bethesda Softworks'],"['Action', 'Adventure', 'Massively Multiplayer', 'RPG']",134312,"May 22, 2017",True,True,False,19.99
+244210,Assetto Corsa,False,0,['Kunos Simulazioni'],['505 Games'],"['Indie', 'Racing', 'Simulation', 'Sports']",135676,"19 Dec, 2014",True,False,False,19.99
+268500,XCOM® 2,False,0,"['Firaxis Games', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['2K', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Strategy'],79806,"4 Feb, 2016",True,True,True,19.99
+1794680,Vampire Survivors,False,0,['poncle'],['poncle'],"['Action', 'Casual', 'Indie', 'RPG']",251180,"20 Oct, 2022",True,True,False,3.74
+1818750,MultiVersus,False,0,['Player First Games'],['Warner Bros. Games'],"['Action', 'Free To Play']",6052,"19 Jul, 2022",True,False,False,0.0
+242050,Assassin’s Creed® IV Black Flag™,False,0,['Ubisoft Montreal'],['Ubisoft'],"['Action', 'Adventure']",72165,,True,False,False,39.99
+30,Day of Defeat,False,0,['Valve'],['Valve'],['Action'],4473,"1 May, 2003",True,True,True,4.99
+236850,Europa Universalis IV,False,0,"['Paradox Development Studio', 'Paradox Tinto']",['Paradox Interactive'],"['Simulation', 'Strategy']",95715,"13 Aug, 2013",True,True,True,49.99
+363970,Clicker Heroes,True,0,['Playsaurus'],['Playsaurus'],"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Free To Play']",751,"13 May, 2015",True,True,False,0.0
+253710,theHunter Classic,False,0,"['Expansive Worlds', 'Avalanche Studios']","['Expansive Worlds', 'Avalanche Studios']","['Action', 'Adventure', 'Free To Play', 'Simulation', 'Sports']",549,"3 Jun, 2014",True,False,False,0.0
+379720,DOOM,False,18,['id Software'],['Bethesda Softworks'],['Action'],155228,"12 May, 2016",True,False,False,19.99
+273350,Evolve Stage 2,False,16,['Turtle Rock Studios'],['2K'],"['Action', 'Free To Play']",9129,"10 Feb, 2015",True,False,False,0.0
+1782210,Crab Game,True,0,['Dani'],['Dani'],"['Action', 'Casual', 'Free To Play', 'Indie', 'Racing']",0,"29 Oct, 2021",True,True,True,0.0
+844870,KurtzPel,True,0,['KOG'],['KOG'],"['Action', 'Free To Play', 'Early Access']",0,"30 Apr, 2019",True,False,False,0.0
+601150,Devil May Cry 5,False,18,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']",['Action'],118694,"7 Mar, 2019",True,False,False,9.22
+1286830,STAR WARS™: The Old Republic™,True,0,['Broadsword'],['Electronic Arts'],"['Massively Multiplayer', 'RPG', 'Free To Play']",463,"21 Jul, 2020",True,False,False,0.0
+365670,Blender,True,0,['Blender Foundation'],['Blender Foundation'],"['Animation & Modeling', 'Design & Illustration', 'Video Production']",124,"24 Apr, 2015",True,True,True,0.0
+319630,Life is Strange - Episode 1,True,16,"['DONTNOD Entertainment', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['Square Enix', 'Feral interactive (Mac)', 'Feral Interactive (Linux)']","['Action', 'Adventure']",124983,"29 Jan, 2015",True,True,True,0.0
+1293830,Forza Horizon 4,False,0,['Playground Games'],['Xbox Game Studios'],['Racing'],278414,"9 Mar, 2021",True,False,False,0.0
+1145360,Hades,False,0,['Supergiant Games'],['Supergiant Games'],"['Action', 'Indie', 'RPG']",285417,"17 Sep, 2020",True,True,False,24.5
+671860,BattleBit Remastered,False,0,"['SgtOkiDoki', 'Vilaskis', 'TheLiquidHorse']",['SgtOkiDoki'],"['Action', 'Massively Multiplayer', 'Early Access']",127676,"15 Jun, 2023",True,False,False,14.79
+427520,Factorio,False,0,['Wube Software LTD.'],['Wube Software LTD.'],"['Casual', 'Indie', 'Simulation', 'Strategy']",195134,"14 Aug, 2020",True,True,True,32.0
+221380,Age of Empires II (Retired),False,0,"['Skybox Labs', 'Hidden Path Entertainment', 'Ensemble Studios', 'Forgotten Empires']",['Xbox Game Studios'],['Strategy'],84798,"9 Apr, 2013",True,False,False,19.99
+231430,Company of Heroes 2,False,18,"['Relic Entertainment', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['Relic Entertainment', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Strategy'],68858,"25 Jun, 2013",True,True,True,18.49
+813820,Realm Royale Reforged,False,0,['Heroic Leap Games'],['Hi-Rez Studios'],"['Action', 'Free To Play', 'Early Access']",0,"5 Jun, 2018",True,False,False,0.0
+594570,Total War: WARHAMMER II,False,0,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['Action', 'Strategy']",87875,"Sep 28, 2017",True,True,True,59.99
+391540,Undertale,False,0,['tobyfox'],['tobyfox'],"['Indie', 'RPG']",305440,"15 Sep, 2015",True,True,True,9.99
+976730,Halo: The Master Chief Collection,False,0,"['343 Industries', 'Splash Damage', 'Ruffian Games', 'Bungie', 'Saber Interactive']",['Xbox Game Studios'],['Action'],239300,"3 Dec, 2019",True,False,False,39.99
+646570,Slay the Spire,False,0,['Mega Crit'],['Mega Crit'],"['Indie', 'Strategy']",192930,"23 Jan, 2019",True,True,True,22.99
+588650,Dead Cells,False,0,['Motion Twin'],['Motion Twin'],"['Action', 'Adventure', 'Indie']",155934,"6 Aug, 2018",True,True,True,24.99
+268910,Cuphead,False,0,['Studio MDHR Entertainment Inc.'],['Studio MDHR Entertainment Inc.'],"['Action', 'Indie']",198137,"29 Sep, 2017",True,True,False,19.99
+439700,Z1 Battle Royale: Test Server,False,0,['Daybreak Game Company'],['Daybreak Game Company'],['Massively Multiplayer'],1918,"24 Feb, 2016",True,False,False,0.0
+500,Left 4 Dead,False,0,['Valve'],['Valve'],['Action'],58099,"17 Nov, 2008",True,False,False,9.75
+1118200,People Playground,False,0,['mestiez'],['Studio Minus'],"['Action', 'Casual', 'Indie', 'Simulation']",297653,"23 Jul, 2019",True,False,False,8.19
+620,Portal 2,False,0,['Valve'],['Valve'],"['Action', 'Adventure']",389872,"18 Apr, 2011",True,False,True,9.75
+1551360,Forza Horizon 5,False,0,['Playground Games'],['Xbox Game Studios'],"['Action', 'Adventure', 'Racing', 'Simulation', 'Sports']",259271,"8 Nov, 2021",True,False,False,23.99
+1049590,Eternal Return,True,0,['Nimble Neuron'],"['Nimble Neuron', 'SapStaR Games', 'KRAFTON, Inc.']",[],110,"19 Jul, 2023",True,False,False,0.0
+380,Half-Life 2: Episode One,False,0,['Valve'],['Valve'],['Action'],25783,"1 Jun, 2006",True,False,True,0.0
+360,Half-Life Deathmatch: Source,False,0,['Valve'],['Valve'],['Action'],4358,"1 May, 2006",True,False,True,9.75
+779340,Total War: THREE KINGDOMS,False,0,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['Action', 'Strategy']",72339,"23 May, 2019",True,True,True,27.99
+233450,Prison Architect,False,16,"['Introversion Software', 'Double Eleven']",['Paradox Interactive'],"['Indie', 'Simulation', 'Strategy']",60092,"6 Oct, 2015",True,True,True,4.99
+782330,DOOM Eternal,False,18,['id Software'],['Bethesda Softworks'],['Action'],189852,"19 Mar, 2020",True,False,False,47.95
+223710,Cry of Fear,True,0,['Team Psykskallar'],['Team Psykskallar'],"['Action', 'Adventure', 'Indie']",296,"25 Apr, 2013",True,False,False,0.0
+513710,SCUM,False,0,['Gamepires'],['Gamepires'],"['Action', 'Adventure', 'Indie', 'Massively Multiplayer']",98267,"17 Jun, 2025",True,False,False,17.99
+677620,Splitgate,True,0,['1047 Games'],['1047 Games'],"['Action', 'Free To Play', 'Indie']",165,"24 May, 2019",True,False,True,0.0
+1677740,Stumble Guys,True,0,['Scopely'],['Scopely'],"['Action', 'Casual', 'Indie', 'Massively Multiplayer', 'Racing', 'Free To Play']",11028,"7 Oct, 2021",True,False,False,0.0
+109600,Neverwinter,True,0,['Cryptic Studios'],['Arc Games'],"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",295,"5 Dec, 2013",True,False,False,0.0
+420,Half-Life 2: Episode Two,False,0,['Valve'],['Valve'],['Action'],33734,"10 Oct, 2007",True,False,True,0.0
+397900,Business Tour - Board Game with Online Multiplayer(大富翁),True,0,['8Floor'],['8Floor'],"['Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'Simulation', 'Strategy', 'Free To Play']",0,"27 Jul, 2017",True,True,False,0.0
+698780,Doki Doki Literature Club!,True,0,['Team Salvato'],['Team Salvato'],"['Casual', 'Free To Play', 'Indie']",443,"6 Oct, 2017",True,True,False,0.0
+435150,Divinity: Original Sin 2 - Definitive Edition,False,0,['Larian Studios'],['Larian Studios'],"['Adventure', 'RPG', 'Strategy']",180506,"14 Sep, 2017",True,True,False,44.99
+1100600,Football Manager 2020,False,0,['Sports Interactive'],['SEGA'],"['Simulation', 'Sports']",17112,"19 Nov, 2019",True,True,False,0.0
+1604030,V Rising,False,0,['Stunlock Studios'],['Stunlock Studios'],"['Action', 'Adventure', 'Massively Multiplayer']",110370,"8 May, 2024",True,False,False,34.99
+534380,Dying Light 2 Stay Human: Reloaded Edition,False,0,['Techland'],['Techland'],"['Action', 'Adventure', 'RPG']",164651,"3 Feb, 2022",True,False,False,59.99
+766570,Russian Fishing 4,True,0,['FishSoft LLC'],['FishSoft LLC'],"['Adventure', 'Casual', 'Massively Multiplayer', 'RPG', 'Simulation', 'Sports', 'Free To Play']",0,"10 Nov, 2021",True,False,False,0.0
+548430,Deep Rock Galactic,False,0,['Ghost Ship Games'],['Coffee Stain Publishing'],['Action'],302809,"13 May, 2020",True,False,False,29.99
+294100,RimWorld,False,0,['Ludeon Studios'],['Ludeon Studios'],"['Indie', 'Simulation', 'Strategy']",208130,"17 Oct, 2018",True,True,True,31.99
+273110,Counter-Strike Nexon,True,0,"['Valve', 'NEXON']",['NEXON'],"['Action', 'Casual', 'Indie', 'Massively Multiplayer', 'Free To Play']",583,"7 Oct, 2014",True,False,False,0.0
+868270,The Cycle: Frontier,False,0,['YAGER'],['YAGER'],"['Action', 'Free To Play', 'Massively Multiplayer']",338,"8 Jun, 2022",True,False,False,0.0
+863550,HITMAN™ 2,False,0,['IO Interactive A/S'],['IO Interactive A/S'],['Action'],31326,"13 Nov, 2018",True,False,False,0.0
+1237970,Titanfall® 2,False,0,['Respawn Entertainment'],['Electronic Arts'],['Action'],254621,"18 Jun, 2020",True,False,False,29.99
+555570,Infestation: The New Z,True,0,['Fredaikis AB'],['OP Productions LLC'],"['Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Free To Play']",2167,"22 Nov, 2016",True,False,False,0.0
+10180,Call of Duty®: Modern Warfare® 2 (2009),False,0,['Infinity Ward'],['Activision'],['Action'],35647,"11 Nov, 2009",True,True,False,19.99
+424840,Little Nightmares,False,0,['Tarsier Studios'],['BANDAI NAMCO Entertainment'],['Adventure'],52158,"27 Apr, 2017",True,False,False,19.99
+2669320,EA SPORTS FC™ 25,False,0,"['EA Canada', 'EA Romania']",['Electronic Arts'],"['Simulation', 'Sports']",97938,"26 Sep, 2024",True,False,False,0.0
+518790,theHunter: Call of the Wild™,True,0,['Expansive Worlds'],['Avalanche Studios'],"['Adventure', 'Simulation', 'Sports']",169934,"16 Feb, 2017",True,False,False,19.5
+365590,Tom Clancy’s The Division™,False,0,['Massive Entertainment'],['Ubisoft'],"['Action', 'Adventure', 'RPG']",76951,"7 Mar, 2016",True,False,False,29.99
+223470,POSTAL 2,False,0,['Running With Scissors'],['Running With Scissors'],"['Action', 'Adventure', 'Indie']",117348,"2 Nov, 2012",True,False,True,9.75
+241930,Middle-earth™: Shadow of Mordor™,False,0,['Monolith Productions'],"['Warner Bros. Interactive Entertainment', 'Warner Bros. Games']",[],63638,"30 Sep, 2014",True,False,False,3.99
+346900,AdVenture Capitalist,True,0,['Hyper Hippo Games'],['Hyper Hippo Games'],"['Casual', 'Indie', 'Free To Play']",505,"30 Mar, 2015",True,True,True,0.0
+3240220,Grand Theft Auto V Enhanced,False,17,['Rockstar North'],['Rockstar Games'],"['Action', 'Adventure', 'Racing']",206393,"Mar 4, 2025",True,False,False,19.79
+440900,Conan Exiles Enhanced,False,0,"['Funcom', 'Inflexion Games']",['Funcom'],"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy']",79563,"8 May, 2018",True,False,False,19.99
+374320,DARK SOULS™ III,False,0,"['FromSoftware, Inc.']","['FromSoftware, Inc.', 'Bandai Namco Entertainment']",['Action'],277822,"11 Apr, 2016",True,False,False,59.99
+1868140,DAVE THE DIVER,False,0,['MINTROCKET'],['MINTROCKET'],"['Adventure', 'Casual', 'RPG', 'Simulation']",142086,"28 Jun, 2023",True,True,False,19.99
+304390,FOR HONOR™,False,0,"['Ubisoft Montreal', 'Ubisoft Quebec', 'Ubisoft Toronto', 'Blue Byte']",['Ubisoft'],['Action'],107992,"13 Feb, 2017",True,False,False,29.99
+1332010,Stray,False,0,['BlueTwelve Studio'],['Annapurna Interactive'],"['Adventure', 'Indie']",157064,"19 Jul, 2022",True,True,False,14.24
+380600,Fishing Planet,True,0,['Fishing Planet LLC'],['Fishing Planet LLC'],"['Massively Multiplayer', 'Simulation', 'Sports', 'Free To Play']",556,"28 Aug, 2017",True,True,True,0.0
+1593500,God of War,False,18,"['Santa Monica Studio', 'Jetpack Interactive']",['PlayStation Publishing LLC'],"['Action', 'Adventure', 'RPG']",129435,"14 Jan, 2022",True,False,False,49.99
+1238840,Battlefield™ 1,False,16,['DICE'],['Electronic Arts'],"['Action', 'Massively Multiplayer']",200120,"11 Jun, 2020",True,False,False,39.99
+960090,Bloons TD 6,False,0,['Ninja Kiwi'],['Ninja Kiwi'],['Strategy'],349297,"17 Dec, 2018",True,True,False,13.79
+262060,Darkest Dungeon®,False,0,['Red Hook Studios'],['Red Hook Studios'],"['Indie', 'RPG', 'Strategy']",140454,"19 Jan, 2016",True,True,True,22.99
+761890,Albion Online,True,0,['Sandbox Interactive GmbH'],['Sandbox Interactive GmbH'],"['Massively Multiplayer', 'RPG', 'Free To Play']",1900,"16 May, 2018",True,True,True,0.0
+2001120,Split Fiction,False,0,['Hazelight Studios'],['Electronic Arts'],"['Action', 'Adventure']",78095,"6 Mar, 2025",True,False,False,49.99
+281990,Stellaris,False,0,['Paradox Development Studio'],['Paradox Interactive'],"['Simulation', 'Strategy']",142735,"9 May, 2016",True,True,True,49.99
+252130,Divide By Sheep,False,0,"['Victor Solodilov', 'Denis Novikov']",['tinyBuild'],"['Adventure', 'Casual', 'Indie']",477,"2 Jul, 2015",True,True,False,4.99
+211820,Starbound,False,0,['Chucklefish'],['Chucklefish'],"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",120678,"22 Jul, 2016",True,True,True,7.49
+8190,Just Cause 2,False,18,['Avalanche Studios'],['Square Enix'],"['Action', 'Adventure']",41014,"23 Mar, 2010",True,False,False,14.99
+6060,"STAR WARS™ Battlefront II (Classic, 2005)",False,0,['Pandemic Studios'],"['Lucasfilm', 'LucasArts', 'Disney']",['Action'],46370,"8 Jul, 2009",True,False,False,9.75
+508440,Totally Accurate Battle Simulator,False,0,['Landfall'],['Landfall'],"['Indie', 'Simulation', 'Strategy']",143658,"1 Apr, 2021",True,True,False,6.45
+42680,Call of Duty®: Modern Warfare® 3 (2011),False,0,"['Infinity Ward', 'Sledgehammer Games']",['Activision'],['Action'],15491,"7 Nov, 2011",True,False,False,39.99
+42910,Magicka,False,0,['Arrowhead Game Studios'],['Paradox Interactive'],"['Action', 'RPG']",19158,"25 Jan, 2011",True,False,False,9.99
+39210,FINAL FANTASY XIV Online,False,16,['Square Enix'],['Square Enix'],"['Massively Multiplayer', 'RPG']",78533,"18 Feb, 2014",True,False,False,9.99
+1222680,Need for Speed™ Heat,False,0,['Ghost Games'],['Electronic Arts'],"['Action', 'Adventure', 'Racing', 'Sports']",128457,"4 Jun, 2020",True,False,False,69.99
+351940,The Descendant,False,0,['Gaming Corps AB'],"['Microids Indie', 'Microids']","['Adventure', 'Casual', 'Indie']",594,"24 Mar, 2016",True,True,False,14.99
+1250,Killing Floor,False,0,['Tripwire Interactive'],['Tripwire Interactive'],['Action'],40066,"14 May, 2009",True,True,True,17.99
+2623190,The Elder Scrolls IV: Oblivion Remastered,False,18,"['Bethesda Game Studios', 'Virtuos']",['Bethesda Softworks'],['RPG'],59568,"22 Apr, 2025",True,False,False,54.99
+323190,Frostpunk,False,16,['11 bit studios'],['11 bit studios'],"['Simulation', 'Strategy']",114217,"24 Apr, 2018",True,False,False,29.99
+1716740,Starfield,False,18,['Bethesda Game Studios'],['Bethesda Softworks'],['RPG'],115088,"5 Sep, 2023",True,False,False,49.99
+813780,Age of Empires II: Definitive Edition,False,0,"[""World's Edge"", 'Forgotten Empires', 'CaptureAge', 'Tantalus Media', 'Wicked Witch', 'Feral Interactive']",['Xbox Game Studios'],['Strategy'],158603,"14 Nov, 2019",True,True,False,32.99
+630,Alien Swarm,True,0,['Valve'],['Valve'],"['Action', 'Free To Play']",294,"19 Jul, 2010",True,False,False,0.0
+57300,Amnesia: The Dark Descent,False,0,['Frictional Games'],['Frictional Games'],"['Action', 'Adventure', 'Indie']",20374,"8 Sep, 2010",True,True,True,19.5
+395170,DISTRAINT: Deluxe Edition,False,0,['Jesse Makkonen'],['Jesse Makkonen'],"['Adventure', 'Casual', 'Indie']",7666,"21 Oct, 2015",True,False,False,0.69
+20920,The Witcher 2: Assassins of Kings Enhanced Edition,False,18,['CD PROJEKT RED'],"['CD PROJEKT RED', '1C-SoftClub']",['RPG'],81615,"16 Apr, 2012",True,True,True,19.99
+212680,FTL: Faster Than Light,False,0,['Subset Games'],['Subset Games'],"['Indie', 'Simulation', 'Strategy']",62658,"14 Sep, 2012",True,True,True,9.99
+504370,Battlerite,True,0,['Stunlock Studios'],['Stunlock Studios'],"['Action', 'Free To Play']",21461,"8 Nov, 2017",True,False,False,0.0
+286160,Tabletop Simulator,False,0,['Berserk Games'],['Berserk Games'],"['Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",48644,"5 Jun, 2015",True,True,True,25.99
+311690,Enter the Gungeon,False,0,['Dodge Roll'],['Devolver Digital'],"['Action', 'Adventure', 'Indie']",79330,"5 Apr, 2016",True,False,True,14.79
+355840,Survarium,False,16,['Vostok Games'],['Vostok Games'],"['Action', 'Free To Play', 'Massively Multiplayer', 'RPG', 'Early Access']",351,"2 Apr, 2015",True,False,False,0.0
+1145350,Hades II,False,0,['Supergiant Games'],['Supergiant Games'],"['Action', 'Indie', 'RPG']",114055,"25 Sep, 2025",True,True,False,28.99
+1366800,Crosshair X,False,0,['CenterPoint Gaming'],['CenterPoint Gaming'],"['Action', 'Adventure', 'Indie', 'Software Training', 'Utilities']",42902,"17 Aug, 2020",True,False,False,10.25
+1196590,Resident Evil Village,False,18,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']",['Action'],106040,"6 May, 2021",True,False,False,39.99
+613100,House Flipper,False,0,['Empyrean'],"['Frozen District', 'PlayWay S.A.']","['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'Simulation', 'Strategy']",92210,"17 May, 2018",True,True,False,24.5
+1172380,STAR WARS Jedi: Fallen Order™,False,0,['Respawn Entertainment'],['Electronic Arts'],"['Action', 'Adventure']",153577,"14 Nov, 2019",True,False,False,39.99
+202970,Call of Duty®: Black Ops II,False,18,['Treyarch'],['Activision'],['Action'],23238,"12 Nov, 2012",True,False,False,39.99
+304430,INSIDE,False,0,['Playdead'],['Playdead'],"['Action', 'Adventure', 'Indie']",69678,"7 Jul, 2016",True,False,False,29.99
+3590,Plants vs. Zombies GOTY Edition,False,0,"['PopCap Games, Inc.']","['PopCap Games, Inc.', 'Electronic Arts']",['Strategy'],143155,"5 May, 2009",True,True,False,4.99
+1260320,Party Animals,False,0,['Recreate Games'],['Source Technology'],"['Action', 'Casual', 'Indie']",57677,"20 Sep, 2023",True,False,False,17.99
+33930,Arma 2: Operation Arrowhead,False,0,['Bohemia Interactive'],['Bohemia Interactive'],"['Action', 'Simulation', 'Strategy']",16196,"29 Jun, 2010",True,False,False,2.99
+212500,The Lord of the Rings Online™,True,0,['Standing Stone Games'],['Daybreak Game Company LLC'],"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",170,"6 Jun, 2012",True,False,False,0.0
+457140,Oxygen Not Included,False,0,['Klei Entertainment'],['Klei Entertainment'],"['Indie', 'Simulation']",135129,"30 Jul, 2019",True,True,True,22.99
+620980,Beat Saber,False,0,['Beat Games'],['Beat Games'],['Indie'],69709,"21 May, 2019",True,False,False,19.99
+1222140,Detroit: Become Human,False,18,['Quantic Dream'],['Quantic Dream'],"['Action', 'Adventure']",225395,"18 Jun, 2020",True,False,False,39.99
+1817070,Marvel’s Spider-Man Remastered,False,0,"['Insomniac Games', 'Nixxes Software']",['PlayStation Publishing LLC'],"['Action', 'Adventure', 'Casual']",101172,"12 Aug, 2022",True,False,False,59.99
+205100,Dishonored,False,0,['Arkane Studios'],['Bethesda Softworks'],"['Action', 'Adventure']",67338,"9 Oct, 2012",True,False,False,9.99
+24240,PAYDAY™ The Heist,False,18,['OVERKILL - a Starbreeze Studio.'],['Starbreeze Entertainment'],['Action'],21857,"20 Oct, 2011",True,False,False,3.13
+1506830,FIFA 22,False,0,['EA Canada & EA Romania'],['Electronic Arts'],"['Simulation', 'Sports']",100466,"1 Oct, 2021",True,False,False,0.0
+962130,Grounded,False,0,['Obsidian Entertainment'],['Xbox Game Studios'],"['Action', 'Adventure']",75557,"27 Sep, 2022",True,False,False,19.99
+356190,Middle-earth™: Shadow of War™,False,17,['Monolith Productions'],['WB Games'],"['Action', 'Adventure', 'RPG']",87539,"Oct 9, 2017",True,False,False,4.99
+274190,Broforce,False,0,['Free Lives'],['Devolver Digital'],"['Action', 'Adventure', 'Casual', 'Indie']",49499,"15 Oct, 2015",True,True,True,14.79
+234140,Mad Max,False,17,['Avalanche Studios'],"['Warner Bros. Games', 'Warner Bros. Interactive Entertainment']","['Action', 'Adventure']",57563,"Sep 1, 2015",True,False,False,19.99
+8500,EVE Online,True,0,['Fenris Creations'],['Fenris Creations'],"['Action', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",7798,"15 Dec, 2010",True,True,False,0.0
+552520,Far Cry® 5,False,17,"['Ubisoft Montreal', 'Red Storm', 'Ubisoft Shanghai', 'Ubisoft Toronto', 'Ubisoft Kiev']",['Ubisoft'],"['Action', 'Adventure']",172683,"Mar 26, 2018",True,False,False,59.99
+7670,BioShock™,False,0,"['2K Boston', '2K Australia']",['2K'],"['Action', 'RPG']",25138,"21 Aug, 2007",True,False,False,4.99
+760160,Vampire: The Masquerade - Bloodhunt,False,18,['Sharkmob AB'],['Sharkmob AB'],"['Action', 'Free To Play']",0,"27 Apr, 2022",True,False,False,0.0
+270880,American Truck Simulator,False,0,['SCS Software'],['SCS Software'],"['Indie', 'Simulation']",167176,"2 Feb, 2016",True,True,True,19.99
+1203620,Enshrouded,False,0,['Keen Games GmbH'],['Keen Games GmbH'],"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",92951,"24 Jan, 2024",True,False,False,29.99
+601510,Yu-Gi-Oh! Duel Links,True,0,['KONAMI'],['KONAMI'],"['Strategy', 'Free To Play']",0,"16 Nov, 2017",True,False,False,0.0
+397540,Borderlands 3,False,18,['Gearbox Software'],['2K'],"['Action', 'RPG']",127739,"13 Mar, 2020",True,False,False,59.99
+12120,Grand Theft Auto: San Andreas,False,18,['Rockstar Games'],['Rockstar Games'],['Action'],70205,"4 Jan, 2008",True,False,False,0.0
+236870,HITMAN™,False,18,"['IO Interactive A/S', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']","['IO Interactive A/S', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']",['Action'],23746,"11 Mar, 2016",True,True,True,0.0
+674940,Stick Fight: The Game,False,0,['Landfall West'],['Landfall'],"['Action', 'Casual', 'Indie']",99912,"28 Sep, 2017",True,True,False,1.9
+884660,CRSED: Cuisine Royale,True,0,"['Darkflow Software', 'Matter Team']",['Gaijin Network Ltd'],"['Action', 'Massively Multiplayer', 'Free To Play']",0,"15 Jun, 2018",True,False,False,0.0
+701160,Kingdom Two Crowns,False,0,"['Fury Studios', 'Coatsink']",['Raw Fury'],"['Adventure', 'Indie', 'Simulation', 'Strategy']",31088,"11 Dec, 2018",True,True,True,3.99
+1832640,Mirror 2: Project X,False,0,['KAGAMI Ⅱ WORKs'],['NIJICO'],"['Adventure', 'Indie', 'RPG', 'Early Access']",111275,"20 Jan, 2022",True,False,False,1.99
+208650,Batman™: Arkham Knight,False,18,['Rocksteady Studios'],['WB Games'],"['Action', 'Adventure']",110889,"23 Jun, 2015",True,False,False,19.99
+48000,LIMBO,False,0,['Playdead'],['Playdead'],"['Action', 'Adventure', 'Indie']",40615,"2 Aug, 2011",True,True,False,11.49
+2379780,Balatro,False,0,['LocalThunk'],['Playstack'],"['Casual', 'Indie', 'Strategy']",160152,"20 Feb, 2024",True,True,False,13.99
+298110,Far Cry® 4,False,0,"['Ubisoft Montreal, Red Storm, Shanghai, Toronto, Kiev']",['Ubisoft'],"['Action', 'Adventure']",68248,"17 Nov, 2014",True,False,False,29.99
+42700,Call of Duty®: Black Ops,False,18,['Treyarch'],['Activision'],['Action'],22156,"8 Nov, 2010",True,False,False,39.99
+200710,Torchlight II,False,0,['Runic Games'],['XD'],"['Action', 'Adventure', 'Indie', 'RPG']",33062,"20 Sep, 2012",True,True,True,18.99
+203770,Crusader Kings II,True,0,['Paradox Development Studio'],['Paradox Interactive'],"['RPG', 'Simulation', 'Strategy', 'Free To Play']",30871,"14 Feb, 2012",True,True,True,0.0
+1903340,Clair Obscur: Expedition 33,False,18,['Sandfall Interactive'],['Kepler Interactive'],"['Action', 'RPG']",180920,"24 Apr, 2025",True,False,False,47.99
+244850,Space Engineers,False,0,['Keen Software House'],['Keen Software House'],"['Action', 'Indie', 'Simulation', 'Strategy']",102526,"28 Feb, 2019",True,False,False,16.99
+1366540,Dyson Sphere Program,False,0,['Youthcat Studio'],['Gamirror Games'],"['Indie', 'Simulation', 'Strategy', 'Early Access']",83417,"20 Jan, 2021",True,False,False,16.79
+2709570,Supermarket Together,True,0,['DeadDevsTellNoLies'],['DeadDevsTellNoLies'],"['Casual', 'Indie', 'Simulation', 'Free To Play']",0,"9 Aug, 2024",True,False,False,0.0
+34330,Total War: SHOGUN 2,False,0,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Strategy'],37910,"14 Mar, 2011",True,True,True,29.99
+389730,TEKKEN 7,False,0,['BANDAI NAMCO Studios Inc.'],['BANDAI NAMCO Entertainment'],"['Action', 'Sports']",67942,"1 Jun, 2017",True,False,False,39.99
+10090,Call of Duty: World at War,False,17,['Treyarch'],['Activision'],['Action'],45682,"Nov 18, 2008",True,False,False,19.99
+1259420,Days Gone,False,18,['Bend Studio'],['PlayStation Publishing LLC'],"['Action', 'Adventure']",82487,"17 May, 2021",True,False,False,39.99
+261640,Borderlands: The Pre-Sequel,False,18,"['2K Australia', 'Gearbox Software', 'Aspyr (Linux)']","['2K', 'Aspyr (Linux)']","['Action', 'RPG']",32735,"16 Oct, 2014",True,True,True,39.99
+220200,Kerbal Space Program,False,0,['Squad'],['Private Division'],"['Indie', 'Simulation']",120330,"27 Apr, 2015",True,True,True,36.99
+1142710,Total War: WARHAMMER III,False,0,"['CREATIVE ASSEMBLY', 'Feral Interactive']","['SEGA', 'Feral Interactive']","['Action', 'Strategy']",104361,"16 Feb, 2022",True,True,True,59.99
+265630,Fistful of Frags,True,0,['Fistful of Frags Team'],['Fistful of Frags Team'],"['Action', 'Free To Play', 'Indie']",472,"9 May, 2014",True,True,True,0.0
+219150,Hotline Miami,False,17,['Dennaton Games'],['Devolver Digital'],"['Action', 'Indie']",109326,"23 Oct, 2012",True,True,True,12.99
+312990,The Expendabros,True,0,['Free Lives'],['Devolver Digital'],"['Action', 'Adventure', 'Indie', 'Free To Play']",172,"5 Aug, 2014",True,True,False,0.0
+418460,Rising Storm 2: Vietnam,False,0,"['Antimatter Games', 'Tripwire Interactive']",['Tripwire Interactive'],"['Action', 'Massively Multiplayer', 'Simulation', 'Strategy']",42618,"30 May, 2017",True,False,False,22.99
+211500,RaceRoom Racing Experience,True,0,['KW Studios'],"['KW Studios', 'RaceRoom Entertainment AG']","['Racing', 'Simulation', 'Sports', 'Free To Play']",1986,"12 Feb, 2013",True,False,False,0.0
+506540,Last Man Standing,False,0,"['Free Reign Entertainment', 'Free Reign Entertainment']",['Free Reign Entertainment'],"['Action', 'Adventure', 'Free To Play', 'Indie', 'Massively Multiplayer', 'Strategy']",0,"29 Mar, 2017",True,False,False,0.0
+20900,The Witcher: Enhanced Edition Director's Cut,False,18,['CD PROJEKT RED'],"['CD PROJEKT RED', '1C-SoftClub']","['Action', 'RPG']",82490,"19 Sep, 2008",True,True,False,9.99
+552500,Warhammer: Vermintide 2,False,0,['Fatshark'],['Fatshark'],"['Action', 'Indie', 'RPG']",90937,"8 Mar, 2018",True,False,False,5.59
+1057090,Ori and the Will of the Wisps,False,0,['Moon Studios GmbH'],['Xbox Game Studios'],['Action'],135872,"10 Mar, 2020",True,False,False,29.99
+359320,Elite Dangerous,False,0,['Frontier Developments'],['Frontier Developments'],"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy']",82206,"2 Apr, 2015",True,False,False,5.99
+214950,Total War: ROME II - Emperor Edition,False,0,"['CREATIVE ASSEMBLY', 'Feral Interactive']","['SEGA', 'Feral Interactive']",['Strategy'],58108,"2 Sep, 2013",True,True,False,36.95
+9480,Saints Row 2,False,0,['Volition'],['Deep Silver'],['Action'],12794,"7 Jan, 2009",True,False,True,2.49
+245170,Skullgirls 2nd Encore,False,0,['Hidden Variable Studios'],['Autumn Games'],"['Action', 'Indie']",29196,"22 Aug, 2013",True,True,True,5.24
+207610,The Walking Dead,False,17,['Telltale Games'],['Skybound Games'],['Adventure'],53537,"Apr 24, 2012",True,True,False,14.99
+35450,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,False,0,['Tripwire Interactive'],['Tripwire Interactive'],"['Action', 'Massively Multiplayer', 'Simulation']",24970,"13 Sep, 2011",True,False,False,17.99
+285900,Gang Beasts,False,0,"['Boneloaf', 'Rocket Science']",['Boneloaf'],"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation']",54737,"12 Dec, 2017",True,True,True,7.59
+232090,Killing Floor 2,False,18,['Tripwire Interactive'],['Tripwire Interactive'],['Action'],87904,"18 Nov, 2016",True,False,False,2.69
+42680,Call of Duty®: Modern Warfare® 3 (2011),False,0,"['Infinity Ward', 'Sledgehammer Games']",['Activision'],['Action'],15491,"7 Nov, 2011",True,False,False,39.99
+918570,Century: Age of Ashes,True,0,['Playwing LTD'],['Playwing LTD'],"['Action', 'Indie', 'Racing', 'Free To Play']",1263,"2 Dec, 2021",True,False,False,0.0
+1771300,Kingdom Come: Deliverance II,False,18,['Warhorse Studios'],['Deep Silver'],"['Action', 'Adventure', 'RPG']",143626,"4 Feb, 2025",True,False,False,59.99
+447040,Watch_Dogs® 2,False,17,['Ubisoft'],['Ubisoft'],"['Action', 'Adventure']",94868,"Nov 28, 2016",True,False,False,49.99
+200510,XCOM: Enemy Unknown,False,18,"['Firaxis Games', 'Feral Interactive (Linux)']","['2K', 'Feral Interactive (Linux)']",['Strategy'],40300,"11 Oct, 2012",True,False,True,14.99
+361420,ASTRONEER,False,0,['System Era Softworks'],['System Era Softworks'],"['Adventure', 'Indie']",118634,"5 Feb, 2019",True,False,False,7.49
+33900,Arma 2,False,0,['Bohemia Interactive'],['Bohemia Interactive'],"['Action', 'Simulation', 'Strategy']",1815,,True,False,False,1.99
+209080,Guns of Icarus Online,False,0,['Muse Games'],['Muse Games'],"['Action', 'Adventure', 'Indie', 'Simulation']",8248,"29 Oct, 2012",True,True,True,4.99
+307780,Mortal Kombat X,False,18,"['NetherRealm Studios', 'QLOC']","['Warner Bros. Games', 'Warner Bros. Interactive Entertainment']",['Action'],39310,"13 Apr, 2015",True,False,False,19.99
+335240,Transformice,True,0,['Atelier 801'],['Atelier 801'],"['Free To Play', 'Indie', 'Massively Multiplayer']",262,"30 Jan, 2015",True,True,True,0.0
+403640,Dishonored 2,False,18,['Arkane Studios'],['Bethesda Softworks'],['Action'],42900,"11 Nov, 2016",True,False,False,29.99
+99900,Spiral Knights,True,0,['Grey Havens'],['Grey Havens'],"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Free To Play']",181,"14 Jun, 2011",True,True,False,0.0
+1289310,Helltaker,True,0,['vanripper'],['vanripper'],"['Adventure', 'Free To Play', 'Indie']",406,"11 May, 2020",True,True,True,0.0
+287700,METAL GEAR SOLID V: THE PHANTOM PAIN,False,18,['KONAMI'],['KONAMI'],"['Action', 'Adventure']",72906,"1 Sep, 2015",True,False,False,17.99
+460930,Tom Clancy's Ghost Recon® Wildlands,False,17,"['Ubisoft Paris', 'Ubisoft Annecy', 'Ubisoft Bucharest', 'Ubisoft Montpellier', 'Ubisoft Milan', 'Reflections', 'Ubisoft Belgrade']",['Ubisoft'],"['Action', 'Adventure']",98888,"Mar 6, 2017",True,False,False,49.99
+219740,Don't Starve,False,0,['Klei Entertainment'],['Klei Entertainment'],"['Adventure', 'Indie', 'Simulation']",96940,"23 Apr, 2013",True,True,True,2.04
+96000,The Tiny Bang Story,False,0,['Colibri Games'],['Colibri Games'],"['Adventure', 'Casual', 'Indie']",3806,"22 Apr, 2011",True,True,True,4.99
+35720,Trine 2: Complete Story,False,0,['Frozenbyte'],['Frozenbyte'],"['Action', 'Adventure', 'Indie']",15269,"6 Jun, 2013",True,True,True,3.99
+880940,Pummel Party,False,0,['Rebuilt Games'],['Rebuilt Games'],"['Action', 'Casual', 'Indie']",46079,"20 Sep, 2018",True,False,False,14.79
+387990,Scrap Mechanic,False,0,['Axolot Games'],['Axolot Games'],"['Action', 'Adventure', 'Indie', 'Simulation']",109101,"24 Jul, 2026",True,False,False,19.42
+686810,Hell Let Loose,False,0,['Expression Games'],['Team17'],"['Action', 'Indie', 'Massively Multiplayer', 'Simulation', 'Strategy']",99516,"27 Jul, 2021",True,False,False,49.99
+409710,BioShock™ Remastered,False,18,"['2K Boston', '2K Australia', 'Blind Squirrel', 'Feral Interactive (Mac)']","['2K', 'Feral Interactive (Mac)']","['Action', 'RPG']",52359,"15 Sep, 2016",True,True,False,4.99
+418370,Resident Evil 7 Biohazard,False,18,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']","['Action', 'Adventure']",87381,"23 Jan, 2017",True,False,False,19.99
+50130,Mafia II (Classic),False,18,['2K Czech'],['2K'],['Action'],36350,"22 Mar, 2011",True,False,False,29.99
+1454400,Cookie Clicker,False,0,"['Orteil', 'DashNet']",['Playsaurus'],"['Casual', 'Indie', 'Simulation', 'Strategy']",87640,"1 Sep, 2021",True,True,False,4.99
+379430,Kingdom Come: Deliverance,False,18,['Warhorse Studios'],"['Warhorse Studios', 'Deep Silver']","['Action', 'Adventure', 'RPG']",142933,"13 Feb, 2018",True,False,False,29.99
+274170,Hotline Miami 2: Wrong Number,False,0,['Dennaton Games'],['Devolver Digital'],"['Action', 'Indie']",69254,"10 Mar, 2015",True,True,True,14.79
+232770,POSTAL,True,0,['Running With Scissors'],['Running With Scissors'],"['Action', 'Indie']",2520,"14 Nov, 1997",True,True,True,0.0
+1363080,Manor Lords,False,0,['Slavic Magic'],['Hooded Horse'],"['Simulation', 'Strategy', 'Early Access']",76374,"26 Apr, 2024",True,False,False,25.99
+585690,Minimalism,False,0,['PixelMouse'],['PixelMouse'],"['Action', 'Adventure', 'Casual', 'Indie']",2427,"8 Feb, 2017",True,False,False,0.99
+289650,Assassin's Creed® Unity,False,0,['Ubisoft'],['Ubisoft'],"['Action', 'Adventure']",78981,"12 Nov, 2014",True,False,False,29.99
+17410,Mirror's Edge™,False,0,['DICE'],['Electronic Arts'],"['Action', 'Adventure']",31167,"14 Jan, 2009",True,False,False,19.99
+4560,Company of Heroes - Legacy Edition,False,0,['Relic Entertainment'],['SEGA'],"['Action', 'Strategy']",4830,"17 Jul, 2007",True,False,False,32.99
+2479810,Gray Zone Warfare,False,0,"['MADFINGER Games, a.s.']","['MADFINGER Games, a.s.']","['Action', 'Massively Multiplayer', 'Simulation', 'Early Access']",68906,"30 Apr, 2024",True,False,False,27.99
+233130,Shadow Warrior,False,18,['Flying Wild Hog'],['Devolver Digital'],"['Action', 'Adventure']",15952,"26 Sep, 2013",True,True,True,28.99
+1056960,Wolfenstein: Youngblood,False,18,"['MachineGames', 'Arkane Studios']",['Bethesda Softworks'],['Action'],12676,"25 Jul, 2019",True,False,False,19.99
+976310,Mortal Kombat 11,False,18,"['NetherRealm Studios', 'QLOC', 'Shiver']","['Warner Bros. Games', 'Warner Bros. Interactive Entertainment']",['Action'],86884,"23 Apr, 2019",True,False,False,49.99
+202970,Call of Duty®: Black Ops II,False,18,['Treyarch'],['Activision'],['Action'],23238,"12 Nov, 2012",True,False,False,39.99
+355180,Codename CURE,True,0,['Raptor Byte'],['Raptor Byte'],"['Action', 'Free To Play']",286,"31 Oct, 2017",True,False,True,0.0
+678950,DRAGON BALL FighterZ,False,0,['Arc System Works'],['Bandai Namco Entertainment'],['Action'],55010,"26 Jan, 2018",True,False,False,59.99
+1151340,Fallout 76,False,18,['Bethesda Game Studios'],['Bethesda Softworks'],['RPG'],78211,"14 Apr, 2020",True,False,False,39.99
+299360,Block N Load,False,0,"['Toadman Interactive', 'Artplant']",['Toadman Interactive'],"['Action', 'Massively Multiplayer', 'Strategy', 'Free To Play']",1824,"30 Apr, 2015",True,False,False,0.0
+213670,South Park™: The Stick of Truth™,False,0,['Obsidian Entertainment'],['Ubisoft'],"['Action', 'Adventure', 'RPG']",60732,"5 Mar, 2014",True,False,False,29.99
+262410,World of Guns: Gun Disassembly,True,0,['Noble Empire Corp.'],['Noble Empire Corp.'],"['Casual', 'Indie', 'Simulation', 'Free To Play']",341,"21 May, 2014",True,True,True,0.0
+224600,Defiance,False,18,['Trion Worlds'],['Trion Worlds'],"['Action', 'Free To Play', 'Massively Multiplayer', 'RPG']",2483,"4 Jun, 2014",True,False,False,0.0
+368230,Kingdom: Classic,True,0,"['Noio', 'Licorice']",['Raw Fury'],"['Indie', 'Simulation', 'Strategy']",5973,"21 Oct, 2015",True,True,True,0.0
+3097560,Liar's Bar,False,0,['Curve Animation'],['Curve Animation'],"['Casual', 'Indie', 'Simulation', 'Strategy', 'Early Access']",48641,"2 Oct, 2024",True,False,False,6.89
+335300,DARK SOULS™ II: Scholar of the First Sin,False,16,"['FromSoftware, Inc.']","['Bandai Namco Entertainment', 'FromSoftware, Inc.']","['Action', 'RPG']",83568,"1 Apr, 2015",True,False,False,39.99
+233860,Kenshi,False,0,['Lo-Fi Games'],['Lo-Fi Games'],"['Action', 'Indie', 'RPG', 'Simulation', 'Strategy']",98052,"6 Dec, 2018",True,False,False,10.79
+240720,Getting Over It with Bennett Foddy,False,0,['Bennett Foddy'],['Bennett Foddy'],['Action'],75040,"6 Dec, 2017",True,True,True,6.99
+391720,Layers of Fear (2016),False,0,['Bloober Team SA'],['Bloober Team SA'],"['Adventure', 'Indie']",13139,"15 Feb, 2016",True,True,True,1.99
+838350,The Scroll of Taiwu : Beyond The Dome,False,0,['ConchShip Games'],['ConchShip Games'],"['Adventure', 'Casual', 'Indie', 'RPG', 'Strategy']",56488,"16 Jun, 2026",True,False,False,30.49
+238320,Outlast,False,0,['Red Barrels'],['Red Barrels'],"['Action', 'Adventure', 'Indie']",104018,"4 Sep, 2013",True,True,True,1.99
+282070,This War of Mine,False,0,['11 bit studios'],['11 bit studios'],"['Adventure', 'Indie', 'Simulation']",89160,"14 Nov, 2014",True,False,True,18.99
+412020,Metro Exodus,False,0,['4A Games'],['Deep Silver'],['Action'],117156,"14 Feb, 2020",True,True,True,29.99
+1158310,Crusader Kings III,False,0,['Paradox Development Studio'],['Paradox Interactive'],"['RPG', 'Simulation', 'Strategy']",96654,"1 Sep, 2020",True,True,True,49.99
+2567870,Chained Together,False,0,"['Anegar Games', 'Lab42']",['Secret Mode'],"['Adventure', 'Casual', 'Indie', 'Simulation']",54434,"19 Jun, 2024",True,False,False,3.99
+265930,Goat Simulator,False,0,['Coffee Stain Studios'],['Coffee Stain Publishing'],"['Casual', 'Indie', 'Simulation']",54726,"1 Apr, 2014",True,True,True,9.99
+214490,Alien: Isolation,False,17,"['Creative Assembly', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Action'],48484,"6 Oct, 2014",True,True,True,39.99
+362890,Black Mesa,False,0,['Crowbar Collective'],['Crowbar Collective'],"['Action', 'Adventure', 'Indie']",134581,"6 Mar, 2020",True,False,True,19.5
+438740,Friday the 13th: The Game,False,0,['IllFonic'],['Gun Media'],['Action'],64347,"25 May, 2017",True,False,False,0.0
+617290,Remnant: From the Ashes,False,16,['Gunfire Games'],"['Arc Games', 'THQ Nordic']","['Action', 'Adventure', 'RPG']",47144,"19 Aug, 2019",True,False,False,39.99
+588430,Fallout Shelter,True,0,['Bethesda Game Studios'],['Bethesda Softworks'],"['RPG', 'Simulation', 'Free To Play']",0,"29 Mar, 2017",True,False,False,0.0
+1943950,Escape the Backrooms,False,0,"['Fancy Games', 'Blackbird Interactive']",['Secret Mode'],"['Action', 'Indie']",136064,"23 Oct, 2025",True,False,False,9.49
+203140,Hitman: Absolution™,False,18,['Io-Interactive A/S'],['Io-Interactive A/S'],['Action'],49549,"19 Nov, 2012",True,False,False,19.99
+12100,Grand Theft Auto III,False,18,['Rockstar Games'],['Rockstar Games'],['Action'],11171,"4 Jan, 2008",True,False,False,0.0
+905370,Conqueror's Blade,False,0,['Booming Tech'],['Poros Interactive'],"['Action', 'Massively Multiplayer', 'Strategy', 'Free To Play']",1041,"30 May, 2019",True,False,False,0.0
+1056640,Phantasy Star Online 2 New Genesis,True,18,['SEGA'],['SEGA'],"['Action', 'Massively Multiplayer', 'RPG', 'Free To Play']",0,"5 Aug, 2020",True,False,False,0.0
+1942280,Brotato,False,0,['Blobfish'],['Blobfish'],"['Action', 'Casual', 'Indie', 'RPG']",110895,"23 Jun, 2023",True,True,True,4.99
+238460,BattleBlock Theater®,False,0,['The Behemoth'],['The Behemoth'],"['Action', 'Adventure', 'Casual', 'Indie']",55749,"15 May, 2014",True,True,False,14.99
+38400,Fallout: A Post Nuclear Role Playing Game,False,15,['Interplay Inc.'],['Bethesda Softworks'],['RPG'],16676,"1 Nov, 2015",True,False,False,9.99
+881020,Granblue Fantasy: Relink,False,0,"['Cygames, Inc.']","['Cygames, Inc.']","['Action', 'Adventure', 'RPG']",41098,"31 Jan, 2024",True,False,False,39.9
+65800,Dungeon Defenders,False,0,['Chromatic Games'],['Chromatic Games'],"['Action', 'Indie', 'RPG', 'Strategy']",12136,"18 Oct, 2011",True,False,False,14.79
+204880,Sins of a Solar Empire®: Rebellion,False,0,"['Ironclad Games Corporation', 'Stardock Entertainment']",['Stardock Entertainment'],"['Action', 'Indie', 'Simulation', 'Strategy']",10237,"12 Jun, 2012",True,False,False,20.49
+235460,METAL GEAR RISING: REVENGEANCE,False,18,['PlatinumGames'],['KONAMI'],['Action'],69020,"9 Jan, 2014",True,True,False,19.99
+581320,Insurgency: Sandstorm,False,0,['New World Interactive'],['Focus Entertainment'],['Action'],104009,"12 Dec, 2018",True,False,False,24.99
+34330,Total War: SHOGUN 2,False,0,['The Creative Assembly'],['SEGA'],[],37910,,True,False,False,0.0
+387290,Ori and the Blind Forest: Definitive Edition,False,0,['Moon Studios GmbH'],['Xbox Game Studios'],['Action'],62627,"27 Apr, 2016",True,False,False,24.99
+728880,Overcooked! 2,False,0,"['Ghost Town Games Ltd.', 'Team17']",['Team17'],"['Action', 'Casual', 'Indie']",61824,"7 Aug, 2018",True,True,True,22.99
+391220,Rise of the Tomb Raider™,False,18,"['Crystal Dynamics', 'Eidos-Montréal', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)', 'Nixxes']","['Crystal Dynamics', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['Action', 'Adventure']",126807,"9 Feb, 2016",True,True,True,4.49
+8870,BioShock Infinite,False,17,"['Irrational Games', 'Virtual Programming (Linux)']",['2K'],['Action'],109588,"25 Mar, 2013",True,True,True,7.49
+372000,Tree of Savior (English Ver.),True,0,"['IMCGAMES Co.,Ltd.']","['IMCGAMES Co.,Ltd.']","['Massively Multiplayer', 'RPG', 'Free To Play']",5753,"28 Mar, 2016",True,False,False,0.0
+239030,"Papers, Please",False,0,['Lucas Pope'],['3909'],"['Adventure', 'Indie']",73273,"8 Aug, 2013",True,True,True,12.99
+629760,MORDHAU,False,0,['Triternion'],['Triternion'],"['Action', 'Indie']",91668,"29 Apr, 2019",True,False,False,28.99
+646910,The Crew™ 2,False,0,['Ivory Tower'],['Ubisoft'],"['Action', 'Massively Multiplayer', 'Racing']",86502,"28 Jun, 2018",True,False,False,29.99
+367500,Dragon's Dogma: Dark Arisen,False,0,['Capcom'],['Capcom'],"['Action', 'Adventure', 'RPG']",37383,"15 Jan, 2016",True,False,False,29.99
+13520,Far Cry®,False,0,['Crytek Studios'],['Ubisoft'],['Action'],11000,"1 Apr, 2008",True,False,False,9.99
+967050,Pacify,False,0,['Shawn Hitchcock'],['Hitchcock Games'],"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy']",32892,"22 Feb, 2019",True,True,False,4.99
+2399830,ARK: Survival Ascended,False,0,"['Studio Wildcard', 'Grove Street Games', 'Instinct Games']","['Studio Wildcard', 'Snail Games USA']","['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",105765,"25 Oct, 2023",True,False,False,11.24
+648350,Jurassic World Evolution,False,0,['Frontier Developments'],['Frontier Developments'],"['Simulation', 'Strategy']",48304,"Jun 11, 2018",True,False,False,44.99
+471710,Rec Room,False,0,['Rec Room'],['Rec Room'],"['Adventure', 'Casual', 'Massively Multiplayer', 'Free To Play']",110,"2 Sep, 2021",True,False,False,0.0
+1372880,The Day Before,False,0,['FNTASTIC'],[' Mytona Fntastic'],"['Action', 'Adventure', 'Massively Multiplayer', 'Early Access']",21885,"7 Dec, 2023",True,False,False,0.0
+524220,NieR:Automata™,False,18,"['Square Enix', 'PlatinumGames Inc.']",['Square Enix'],"['Action', 'RPG']",114934,"17 Mar, 2017",True,False,False,39.99
+305620,The Long Dark,False,0,['Hinterland Studio Inc.'],['Hinterland Studio Inc.'],"['Приключенческие игры', 'Инди', 'Симуляторы', 'Стратегии']",111554,1 авг. 2017 г.,True,True,True,271.0
+475150,Titan Quest Anniversary Edition,False,0,"['Iron Lore Entertainment', 'THQ Nordic']",['THQ Nordic'],"['Action', 'RPG']",25850,"31 Aug, 2016",True,False,False,19.99
+47870,Need For Speed: Hot Pursuit,False,0,['Criterion Games'],['Electronic Arts'],['Racing'],17445,"14 Dec, 2010",True,False,False,0.0
+629520,Soundpad,False,0,['Leppsoft'],['Leppsoft'],"['Audio Production', 'Utilities']",96107,"30 Sep, 2017",True,False,False,4.99
+282440,Quake Live,False,0,['id Software'],['Bethesda Softworks'],['Action'],4359,"17 Sep, 2014",True,False,False,9.99
+436150,Governor of Poker 3,True,0,['Playtika Ltd.'],['Playtika Ltd.'],"['Casual', 'Massively Multiplayer', 'Simulation', 'Free To Play']",0,"19 Feb, 2016",True,True,False,0.0
+1304930,The Outlast Trials,False,0,['Red Barrels'],['Red Barrels'],"['Action', 'Adventure', 'Indie']",90533,"5 Mar, 2024",True,False,False,38.99
+550900,Metin2,False,0,['WEBZEN Inc.'],['Gameforge 4D GmbH'],"['Action', 'Adventure', 'Free To Play', 'Massively Multiplayer', 'RPG']",0,"8 May, 2017",True,False,False,0.0
+33230,Assassin's Creed 2,False,0,['Ubisoft Montreal'],['Ubisoft'],"['Action', 'Adventure']",57566,"4 Mar, 2010",True,False,False,9.99
+427730,Who's Your Daddy?!,False,0,['Evil Tortilla Games'],['Evil Tortilla Games'],"['Action', 'Casual', 'Indie']",25786,"13 May, 2016",True,True,False,9.75
+221040,Resident Evil 6,False,17,['Capcom'],['Capcom'],"['Action', 'Adventure']",51155,"21 Mar, 2013",True,False,False,14.99
+1274570,DEVOUR,False,0,['Straight Back Games'],['Straight Back Games'],['Indie'],68611,"28 Jan, 2021",True,True,False,5.79
+1222700,A Way Out,False,0,['Hazelight Studios'],['Electronic Arts'],"['Action', 'Adventure', 'Indie']",78027,"18 Jun, 2020",True,False,False,39.99
+1468810,鬼谷八荒 Tale of Immortal,False,0,['鬼谷工作室'],"['鬼谷工作室', 'Lightning Games']","['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",190135,"26 May, 2023",True,False,False,16.79
+287390,Metro: Last Light Redux,False,0,['4A Games'],['Deep Silver'],['Action'],71177,"27 Aug, 2014",True,True,True,19.99
+570940,DARK SOULS™: REMASTERED,False,0,"['QLOC', 'FromSoftware, Inc.']","['FromSoftware, Inc.', 'Bandai Namco Entertainment']",['Action'],99952,"23 May, 2018",True,False,False,39.99
+1272080,PAYDAY 3,False,18,['Starbreeze Studios'],['Starbreeze Entertainment'],"['Action', 'Adventure', 'RPG']",49099,"21 Sep, 2023",True,False,False,14.24
+316010,Magic Duels,False,0,['Stainless Games Ltd.'],['Wizards of the Coast LLC'],"['Free To Play', 'Strategy']",1383,"29 Jul, 2015",True,False,False,0.0
+105450,Age of Empires® III (2007),False,0,['Ensemble Studios'],['Xbox Game Studios'],"['Simulation', 'Strategy']",27598,"5 Jan, 2012",True,False,False,0.0
+1167630,Teardown,False,0,['Tuxedo Labs'],['Tuxedo Labs'],"['Action', 'Indie', 'Simulation', 'Strategy']",126124,"21 Apr, 2022",True,False,False,29.99
+11020,TrackMania Nations Forever,True,0,['Nadeo'],['Ubisoft'],['Racing'],170,"16 Apr, 2008",True,False,False,0.0
+12200,Bully: Scholarship Edition,False,0,['Rockstar New England'],['Rockstar Games'],"['Action', 'Adventure']",37390,"21 Oct, 2008",True,False,False,9.99
+881100,Noita,False,0,['Nolla Games'],['Nolla Games'],"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",80989,"15 Oct, 2020",True,False,False,18.99
+1313140,Cult of the Lamb,False,0,['Massive Monster'],['Devolver Digital'],"['Action', 'Adventure', 'Indie', 'Strategy']",111654,"11 Aug, 2022",True,True,False,27.99
+261570,Ori and the Blind Forest,False,0,['Moon Studios GmbH'],['Xbox Game Studios'],['Action'],51028,"10 Mar, 2015",True,False,False,0.0
+1361210,"Warhammer 40,000: Darktide",False,0,['Fatshark'],['Fatshark'],"['Action', 'Adventure', 'RPG']",108119,"30 Nov, 2022",True,False,False,9.99
+221910,The Stanley Parable,False,0,['Galactic Cafe'],"['Galactic Cafe', 'Klei Publishing']","['Adventure', 'Indie']",40268,"17 Oct, 2013",True,True,True,14.79
+238090,Sniper Elite 3,False,0,['Rebellion'],['Rebellion'],"['Action', 'Adventure']",21356,"27 Jun, 2014",True,False,False,28.99
+242720,GunZ 2: The Second Duel,True,0,['Masangsoft'],['Masangsoft'],"['Action', 'Indie', 'Free To Play']",0,"1 May, 2014",True,False,False,0.0
+1250410,Microsoft Flight Simulator (2020) 40th Anniversary Edition,False,0,['Asobo Studio'],['Xbox Game Studios'],['Simulation'],69928,"25 Aug, 2026",True,False,False,69.99
+644930,They Are Billions,False,0,['Numantian Games'],['Numantian Games'],['Strategy'],46174,"18 Jun, 2019",True,False,False,29.99
+641990,The Escapists 2,False,0,"['Team17', 'Mouldy Toof Studios']",['Team17'],"['Indie', 'Simulation', 'Strategy']",26430,"21 Aug, 2017",True,True,True,19.99
+1254120,Bless Unleashed,True,0,['VALOFE'],['VALOFE'],"['Action', 'Massively Multiplayer', 'RPG', 'Free To Play']",209,"6 Aug, 2021",True,False,False,0.0
+222880,Insurgency,False,0,['New World Interactive'],['New World Interactive'],"['Action', 'Indie', 'Strategy']",86343,"22 Jan, 2014",True,True,True,12.49
+201790,Orcs Must Die! 2,False,0,['Robot Entertainment'],['Robot Entertainment'],"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy']",12915,"30 Jul, 2012",True,False,False,12.49
+1569040,Football Manager 2022,False,0,['Sports Interactive'],['SEGA'],"['Simulation', 'Sports']",13803,"9 Nov, 2021",True,True,False,0.0
+203290,America's Army: Proving Grounds,True,0,['U.S. Army'],['U.S. Army'],"['Action', 'Free To Play']",126,"29 Aug, 2013",True,False,False,0.0
+2670630,Supermarket Simulator,False,0,['Nokta Games'],['Nokta Games'],"['Casual', 'Indie', 'Simulation']",79097,"19 Jun, 2025",True,True,False,19.99
+286570,F1 2015,False,0,"['Codemasters', 'Feral Interactive (Linux)']","['Codemasters', 'Feral Interactive (Linux)']","['Racing', 'Sports']",1284,"9 Jul, 2015",True,False,True,0.0
+787860,Farming Simulator 19,False,0,['GIANTS Software'],['GIANTS Software'],['Simulation'],64588,"19 Nov, 2018",True,True,False,17.99
+466560,Northgard: Definitive Edition,False,0,['Shiro Games'],['Shiro Games'],"['Adventure', 'Indie', 'Simulation', 'Strategy']",54425,"7 Mar, 2018",True,True,True,9.79
+207140,SpeedRunners,False,0,['DoubleDutch Games'],['tinyBuild'],"['Action', 'Casual', 'Indie', 'Racing', 'Sports']",22822,"19 Apr, 2016",True,True,True,14.79
+1092790,Inscryption,False,0,['Daniel Mullins Games'],['Devolver Digital'],"['Adventure', 'Indie', 'Strategy']",134754,"19 Oct, 2021",True,True,True,19.99
+431240,Golf With Your Friends,False,0,"['Blacklight Interactive', 'Team17']",['Team17'],"['Casual', 'Indie', 'Sports']",50616,"19 May, 2020",True,True,True,14.99
+248570,Toribash,True,0,['Nabi Studios'],"['Nicalis, Inc.']","['Action', 'Indie', 'Strategy', 'Free To Play']",145,"16 May, 2014",True,True,True,0.0
+107100,Bastion,False,0,['Supergiant Games'],['Supergiant Games'],"['Action', 'Indie', 'RPG']",28213,"16 Aug, 2011",True,True,True,14.79
+209000,Batman™: Arkham Origins,False,16,"['WB Games Montreal', 'Splash Damage']",['Warner Bros. Interactive Entertainment'],"['Action', 'Adventure']",45436,"24 Oct, 2013",True,False,False,19.99
+24960,Battlefield: Bad Company™ 2,False,0,['DICE'],['Electronic Arts'],['Action'],31879,"2 Mar, 2010",True,False,False,0.0
+848450,Subnautica: Below Zero,False,0,['Unknown Worlds Entertainment'],['Unknown Worlds Entertainment'],"['Adventure', 'Indie']",99238,"13 May, 2021",True,True,False,7.49
+108710,Alan Wake,False,0,['Remedy Entertainment'],['Remedy Entertainment'],"['Action', 'Adventure']",45239,"Feb 16, 2012",True,False,False,1.49
+201810,Wolfenstein: The New Order,False,16,['MachineGames'],['Bethesda Softworks'],['Action'],46376,"May 19, 2014",True,False,False,19.99
+952060,Resident Evil 3,False,0,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']",['Action'],89668,"2 Apr, 2020",True,False,False,39.99
+1029690,Sniper Elite 5,False,0,['Rebellion'],['Rebellion'],"['Action', 'Adventure']",24547,"May 25, 2022",True,False,False,49.99
+815370,Green Hell,False,0,['Creepy Jar'],['Creepy Jar'],"['Action', 'Adventure', 'Indie', 'Simulation']",78804,"5 Sep, 2019",True,False,False,2.39
+308040,Back to Bed,False,0,['Bedtime Digital Games'],['Bedtime Digital Games'],"['Action', 'Casual', 'Indie']",741,"6 Aug, 2014",True,True,True,1.09
+470220,UNO,False,0,['Ubisoft Entertainment'],['Ubisoft Entertainment'],['Casual'],42004,"3 Jan, 2017",True,False,False,9.99
+302830,BLOCKADE 3D,True,0,['Novalink'],['Novalink'],"['Action', 'Free To Play', 'Early Access']",403,"19 Dec, 2014",True,False,False,0.0
+242920,Banished,False,0,['Shining Rock Software LLC'],['Shining Rock Software LLC'],"['Indie', 'Simulation', 'Strategy']",37878,"18 Feb, 2014",True,False,False,18.99
+236110,Dungeon Defenders II,True,0,['Chromatic Games'],['Chromatic Games'],"['Action', 'Indie', 'RPG', 'Strategy', 'Free To Play']",2983,"20 Jun, 2017",True,False,False,0.0
+383870,Firewatch,False,0,['Campo Santo'],"['Panic', 'Campo Santo']","['Adventure', 'Indie']",93614,"9 Feb, 2016",True,True,True,19.5
+1237950,STAR WARS™ Battlefront™ II,False,16,['DICE'],['Electronic Arts'],"['Action', 'Adventure']",87302,"11 Jun, 2020",True,False,False,39.99
+1399780,Spellbreak,False,0,"['Proletariat, Inc.']","['Proletariat, Inc.']","['Action', 'Adventure', 'Free To Play', 'RPG']",0,"15 Dec, 2020",True,False,False,0.0
+312660,Sniper Elite 4,False,0,['Rebellion'],['Rebellion'],"['Action', 'Adventure']",54085,"Feb 13, 2017",True,False,False,59.99
+502500,ACE COMBAT™ 7: SKIES UNKNOWN,False,0,['Bandai Namco Studios Inc.'],['Bandai Namco Entertainment'],"['Action', 'Simulation']",46112,"31 Jan, 2019",True,False,False,59.99
+632470,Disco Elysium - The Final Cut,False,0,['ZA/UM'],['ZA/UM'],['RPG'],117791,"15 Oct, 2019",True,True,False,37.99
+200260,Batman: Arkham City - Game of the Year Edition,False,0,['Rocksteady Studios'],['WB Games'],"['Action', 'Adventure']",55785,"7 Sep, 2012",True,False,False,19.99
+393380,Squad,False,0,['Offworld'],['Offworld'],"['Action', 'Indie', 'Massively Multiplayer', 'Strategy']",180090,"23 Sep, 2020",True,False,False,33.99
+40800,Super Meat Boy,False,0,['Team Meat'],[],['Indie'],29973,"30 Nov, 2010",True,True,True,13.99
+303390,Dead Bits,False,0,['Microblast Games'],['SA Industry'],"['Action', 'Casual', 'Indie']",3409,"7 Jun, 2014",True,True,False,0.49
+280,Half-Life: Source,False,0,['Valve'],['Valve'],['Action'],14617,"1 Jun, 2004",True,True,True,9.75
+783770,Ironsight,False,0,"['WipleGames Inc.,']","['WipleGames Inc.,']","['Action', 'Free To Play']",0,"19 Jun, 2019",True,False,False,0.0
+212070,Star Conflict,True,0,['Star Gem Inc.'],['Gaijin Network Ltd'],"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Simulation', 'Free To Play']",199,"27 Feb, 2013",True,True,True,0.0
+110800,L.A. Noire,False,18,"['Team Bondi', 'Rockstar Leeds']",['Rockstar Games'],"['Adventure', 'Strategy']",31038,"8 Nov, 2011",True,False,False,19.99
+41070,Serious Sam 3: BFE,False,0,['Croteam'],['Devolver Digital'],"['Action', 'Indie']",21782,"22 Nov, 2011",True,True,True,2.89
+50300,Spec Ops: The Line,False,18,['YAGER'],"['2K', 'Missing Link Games']","['Action', 'Adventure']",28279,"29 Jun, 2012",True,True,True,0.0
+1284210,Guild Wars 2®,True,0,['ArenaNet®'],"['ArenaNet®', 'NCSOFT']","['Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",509,"23 Aug, 2022",True,False,False,0.0
+485510,Nioh: Complete Edition,False,0,"['KOEI TECMO GAMES CO., LTD.']","['KOEI TECMO GAMES CO., LTD.']","['Action', 'RPG']",29531,"7 Nov, 2017",True,False,False,49.99
+35700,Trine Enchanted Edition,False,0,['Frozenbyte'],['Frozenbyte'],"['Action', 'Adventure', 'Indie']",12835,"2 Jul, 2009",True,True,True,2.99
+210770,Sanctum 2,False,0,['Coffee Stain Studios'],['Coffee Stain Publishing'],"['Action', 'Indie', 'Strategy']",7454,"15 May, 2013",True,True,True,14.99
+282140,SOMA,False,0,['Frictional Games'],['Frictional Games'],"['Action', 'Adventure', 'Indie']",46502,"21 Sep, 2015",True,True,True,5.79
+495420,State of Decay 2: Juggernaut Edition,False,0,['Undead Labs'],['Xbox Game Studios'],"['Action', 'RPG', 'Simulation']",58936,"13 Mar, 2020",True,False,False,7.49
+323580,Jotun: Valhalla Edition,False,0,['Thunder Lotus'],['Thunder Lotus'],"['Action', 'Adventure', 'Indie']",2212,"29 Sep, 2015",True,True,True,15.49
+225260,Brutal Legend,False,0,['Double Fine Productions'],['Double Fine Productions'],"['Action', 'Adventure', 'Strategy']",11334,"26 Feb, 2013",True,True,True,14.99
+2835570,Buckshot Roulette,False,0,['Mike Klubnika'],['CRITICAL REFLEX'],"['Action', 'Indie', 'Simulation']",109396,"4 Apr, 2024",True,False,True,2.99
+464920,Surviving Mars,False,0,"['Haemimont Games', 'Abstraction']",['Paradox Interactive'],"['Simulation', 'Strategy']",17142,"15 Mar, 2018",True,True,True,0.0
+9900,Star Trek Online,True,0,['Cryptic Studios'],['Arc Games'],"['Massively Multiplayer', 'RPG', 'Free To Play']",947,"31 Jan, 2012",True,False,False,0.0
+7940,Call of Duty® 4: Modern Warfare® (2007),False,0,['Infinity Ward'],['Activision'],['Action'],22046,"12 Nov, 2007",True,True,False,19.99
+493340,Planet Coaster,False,0,"['Frontier Developments', 'Aspyr (Mac)']","['Frontier Developments', 'Aspyr (Mac)']","['Action', 'Adventure', 'Casual', 'Simulation', 'Strategy']",59745,"Nov 17, 2016",True,True,False,44.99
+343710,Kholat,False,0,['IMGN.PRO'],['IMGN.PRO'],"['Adventure', 'Indie']",2035,"9 Jun, 2015",True,False,False,17.99
+504230,Celeste,False,0,"['Maddy Makes Games Inc.', 'Extremely OK Games, Ltd.']",['Maddy Makes Games Inc.'],"['Action', 'Adventure', 'Indie']",131403,"25 Jan, 2018",True,True,True,4.74
+265590,The Red Solstice,False,0,['Ironward'],['Ironward'],['Strategy'],882,"9 Jul, 2015",True,False,False,9.99
+394510,HELLDIVERS™ Dive Harder Edition,False,15,['Arrowhead Game Studios'],['PlayStation Publishing LLC'],['Action'],25642,"7 Dec, 2015",True,False,False,19.99
+1128810,RISK: Global Domination,True,0,['SMG Studio'],['SMG Studio'],"['Casual', 'Strategy', 'Free To Play']",148,"19 Feb, 2020",True,True,False,0.0
+325610,Total War: ATTILA,False,0,"['CREATIVE ASSEMBLY', 'Feral Interactive']","['SEGA', 'Feral Interactive']",['Strategy'],26872,"17 Feb, 2015",True,True,True,19.99
+1643320,S.T.A.L.K.E.R. 2: Heart of Chornobyl,False,18,['GSC Game World'],"['GSC Game World (worldwide)', 'SEGA (Japan)', '4Divinity (China and South East Asia)']","['Action', 'Adventure', 'RPG']",106368,"20 Nov, 2024",True,False,False,59.99
+204450,Call of Juarez: Gunslinger,False,0,['Techland'],['Techland Publishing'],['Action'],20814,"22 May, 2013",True,False,False,12.49
+63380,Sniper Elite V2,False,0,['Rebellion'],['Rebellion'],['Action'],6251,,True,False,False,0.0
+268420,Aura Kingdom,False,0,['X-Legend'],['Aeria Games'],"['Adventure', 'Casual', 'Free To Play', 'Massively Multiplayer', 'RPG']",120,"4 Jul, 2014",True,False,False,0.0
+482730,Football Manager 2017,False,0,['Sports Interactive'],['SEGA'],"['Simulation', 'Sports']",7792,"3 Nov, 2016",True,True,True,0.0
+360970,Heaven Forest NIGHTS,False,0,['Fabio Ferrara'],['Chubby Pixel'],"['Action', 'Adventure']",0,"14 Mar, 2017",True,True,True,1.09
+22370,Fallout 3: Game of the Year Edition,False,0,['Bethesda Game Studios'],['Bethesda Softworks'],['RPG'],43977,"17 Dec, 2009",True,False,False,899.0
+349040,NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,False,0,['CyberConnect2 Co. Ltd.'],['BANDAI NAMCO Entertainment'],"['Action', 'Adventure']",72352,"4 Feb, 2016",True,False,False,19.99
+823130,Totally Accurate Battlegrounds,True,0,['Landfall'],['Landfall'],"['Action', 'Indie', 'Free To Play']",15255,"5 Jun, 2018",True,False,False,0.0
+204100,Max Payne 3,False,0,['Rockstar Studios'],['Rockstar Games'],['Action'],54896,"31 May, 2012",True,False,False,5.99
+1184370,Pathfinder: Wrath of the Righteous - Enhanced Edition,False,0,['Owlcat Games'],"['META Publishing', 'Owlcat Games']","['Action', 'Adventure', 'Indie', 'RPG', 'Strategy']",34026,"2 Sep, 2021",True,True,False,19.99
+640820,Pathfinder: Kingmaker — Enhanced Plus Edition,False,0,['Owlcat Games'],['Knights Peak'],"['Adventure', 'RPG']",28105,"25 Sep, 2018",True,True,True,19.99
+47890,The Sims™ 3,False,0,"['The Sims Studio', 'Maxis']",['Electronic Arts'],['Simulation'],31053,"27 Jan, 2011",True,False,False,19.99
+637650,FINAL FANTASY XV WINDOWS EDITION,False,16,['Square Enix'],['Square Enix'],['RPG'],44869,"6 Mar, 2018",True,False,False,34.99
+703080,Planet Zoo,False,0,['Frontier Developments'],['Frontier Developments'],"['Casual', 'Simulation', 'Strategy']",81054,"Nov 5, 2019",True,False,False,44.99
+35140,Batman: Arkham Asylum Game of the Year Edition,False,0,['Rocksteady Studios'],['WB Games'],"['Action', 'Adventure']",61887,"26 Mar, 2010",True,False,False,19.99
+460950,Katana ZERO,False,0,['Askiisoft'],['Devolver Digital'],"['Action', 'Indie']",66286,"18 Apr, 2019",True,True,False,14.79
+50620,Darksiders™,False,0,['Vigil Games'],['THQ Nordic'],"['Action', 'Adventure']",8554,"23 Sep, 2010",True,False,False,0.0
+337000,Deus Ex: Mankind Divided,False,17,"['Eidos Montreal', 'Feral Interactive (Linux/Mac)']","['Eidos Interactive Corp.', 'Feral Interactive (Linux/Mac)']","['Action', 'RPG']",30667,"Aug 23, 2016",True,True,True,29.99
+433340,Slime Rancher,False,0,['Monomi Park'],['Monomi Park'],"['Action', 'Adventure', 'Indie', 'Simulation']",139085,"1 Aug, 2017",True,True,True,25.99
+238010,Deus Ex: Human Revolution - Director's Cut,False,18,['Eidos Montreal'],['Eidos Interactive Corp.'],"['Action', 'RPG']",25343,"25 Oct, 2013",True,False,False,19.99
+527230,For The King,False,0,['IronOak Games'],['Curve Games'],"['Adventure', 'Indie', 'RPG', 'Strategy']",31011,"19 Apr, 2018",True,True,True,19.99
+39120,RIFT,True,0,['gamigo US Inc.'],['gamigo US Inc.'],"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",1000,"1 Mar, 2011",True,False,False,0.0
+307690,Sleeping Dogs: Definitive Edition,False,18,"['United Front Games', 'Feral Interactive (Mac)']","['Square Enix', 'Feral Interactive (Mac)']","['Action', 'Adventure', 'Racing']",70297,"8 Oct, 2014",True,True,False,19.99
+266840,Age of Mythology: Extended Edition,False,0,"['SkyBox Labs', 'Ensemble Studios', 'Forgotten Empires']",['Xbox Game Studios'],"['Simulation', 'Strategy']",31854,"8 May, 2014",True,False,False,27.99
+2054970,Dragon's Dogma 2,False,18,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']","['Action', 'RPG']",76114,"21 Mar, 2024",True,False,False,29.99
+645630,Car Mechanic Simulator 2018,False,0,['Red Dot Games'],['PlayWay S.A.'],"['Racing', 'Simulation']",48358,"28 Jul, 2017",True,True,False,19.5
+300,Day of Defeat: Source,False,0,['Valve'],['Valve'],['Action'],15982,"12 Jul, 2010",True,False,True,9.75
+1790600,DRAGON BALL: Sparking! ZERO,False,0,"['Spike Chunsoft Co., Ltd.']",['Bandai Namco Entertainment'],['Action'],50309,"10 Oct, 2024",True,False,False,49.99
+368260,Marvel's Midnight Suns,False,12,['Firaxis Games'],['2K'],"['RPG', 'Strategy']",16971,"1 Dec, 2022",True,False,False,59.99
+389570,Mitos.is: The Game,True,0,['Freakinware Studios'],['Freakinware Studios'],"['Casual', 'Simulation', 'Free To Play']",174,"29 Jul, 2015",True,True,False,0.0
+736590,Operation: Harsh Doorstop,True,0,['Drakeling Labs'],[],"['Action', 'Casual', 'Indie', 'Simulation', 'Strategy', 'Free To Play', 'Early Access']",0,"15 Feb, 2023",True,False,False,0.0
+1637320,Dome Keeper,False,0,['Bippinbits'],['Raw Fury'],"['Action', 'Adventure', 'Indie', 'Simulation']",18844,"27 Sep, 2022",True,True,True,5.39
+409720,BioShock™ 2 Remastered,False,18,"['2K Marin', '2K China', 'Digital Extremes', '2K Australia', 'Blind Squirrel', 'Feral Interactive (Mac)']","['2K', 'Feral Interactive (Mac)']","['Action', 'RPG']",24222,"15 Sep, 2016",True,True,False,2.99
+975370,Dwarf Fortress,False,0,['Bay 12 Games'],['Kitfox Games'],"['Indie', 'Simulation', 'Strategy']",29258,"6 Dec, 2022",True,False,True,30.49
+15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition (Classic)",False,0,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']","['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",['Strategy'],8061,"18 Feb, 2009",True,True,True,44.99
+1371980,No Rest for the Wicked,False,0,['Moon Studios GmbH'],['Moon Studios GmbH'],"['Action', 'Adventure', 'RPG', 'Early Access']",65739,"18 Apr, 2024",True,False,False,39.99
+993090,Lossless Scaling,False,0,['THS'],['THS'],['Utilities'],37656,"28 Dec, 2018",True,False,False,6.89
+476480,Heaven Forest - VR MMO,False,0,['Fabio Ferrara'],['Chubby Pixel'],"['Adventure', 'Massively Multiplayer']",129,"14 Dec, 2016",True,True,True,1.09
+65930,The Bureau: XCOM Declassified,False,16,['2K Marin'],['2K'],['Action'],4851,"22 Aug, 2013",True,True,False,19.99
+3132990,Black Myth: Wukong Benchmark Tool,True,0,['Game Science'],['Game Science'],"['Free To Play', 'Utilities']",0,"12 Aug, 2024",True,False,False,0.0
+1277400,Monster Hunter Stories 2: Wings of Ruin,False,0,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']","['Adventure', 'RPG']",11836,"8 Jul, 2021",True,False,False,39.99
+2215430,Ghost of Tsushima DIRECTOR'S CUT,False,18,"['Sucker Punch Productions', 'Nixxes Software']",['PlayStation Publishing LLC'],"['Action', 'Adventure']",64297,"16 May, 2024",True,False,False,59.99
+602960,Barotrauma,False,0,"['FakeFish', 'Undertow Games']",['Daedalic Entertainment'],"['Action', 'Indie', 'Simulation', 'Strategy']",61708,"13 Mar, 2023",True,True,True,19.99
+606150,Moonlighter,False,0,['Digital Sun'],['11 bit studios'],"['Action', 'Adventure', 'Indie']",17240,"29 May, 2018",True,True,True,1.99
+342200,MechWarrior Online™ Legends,True,0,['Piranha Games Inc.'],['Piranha Games Inc.'],"['Action', 'Massively Multiplayer', 'Simulation', 'Strategy', 'Free To Play']",155,"10 Dec, 2015",True,False,False,0.0
+1824220,Chivalry 2,False,18,['Torn Banner Studios'],['Tripwire Presents'],"['Action', 'Massively Multiplayer']",46703,"12 Jun, 2022",True,False,False,35.99
+55150,"Warhammer 40,000: Space Marine - Anniversary Edition",False,0,['Relic Entertainment'],['Relic Entertainment'],['Action'],18403,"5 Sep, 2011",True,False,False,35.99
+8980,Borderlands Game of the Year,False,18,['Gearbox Software'],['2K'],"['Action', 'RPG']",21072,"31 Aug, 2023",True,False,False,29.99
+22330,The Elder Scrolls IV: Oblivion® Game of the Year Edition Deluxe (2009),False,0,['Bethesda Game Studios®'],['Bethesda Softworks'],[],42901,"16 Jun, 2009",True,False,False,19.99
+312530,Duck Game,False,0,['Landon Podbielski'],['CORPTRON GAMES CORP.'],"['Action', 'Indie']",25255,"4 Jun, 2015",True,False,False,12.99
+1139900,Ghostrunner,False,16,"['One More Level', '3D Realms', 'Slipgate Ironworks™', 'All in! Games']",['505 Games'],['Action'],46770,"27 Oct, 2020",True,False,False,29.99
+1343400,RuneScape ®,True,0,['Jagex Ltd'],['Jagex Ltd'],"['Massively Multiplayer', 'RPG', 'Free To Play']",0,"14 Oct, 2020",True,True,False,0.0
+738060,Freddy Fazbear's Pizzeria Simulator,True,0,['Scott Cawthon'],['Scott Cawthon'],"['Free To Play', 'Indie', 'Simulation']",0,"4 Dec, 2017",True,False,False,0.0
+893520,Creative Destruction,False,0,['NetEase Games'],['NetEase Games'],"['Action', 'Adventure', 'Casual', 'Massively Multiplayer']",673,"2 Aug, 2018",True,False,False,0.0
+234650,Shadowrun Returns,False,0,['Harebrained Schemes'],['Paradox Interactive'],"['Adventure', 'Indie', 'RPG', 'Strategy']",9516,"25 Jul, 2013",True,True,True,14.99
+744900,Dead Frontier 2,True,0,['Creaky Corpse Ltd'],['Creaky Corpse Ltd'],"['Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Free To Play']",0,"15 Jul, 2019",True,False,False,0.0
+314160,Microsoft Flight Simulator X: Steam Edition,False,0,['Microsoft Game Studios'],['Xbox Game Studios'],['Simulation'],23321,"18 Dec, 2014",True,False,False,24.99
+1364780,Street Fighter™ 6,False,0,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']","['Action', 'Adventure']",49608,"Jun 1, 2023",True,False,False,19.99
+9010,Return to Castle Wolfenstein,False,0,['Gray Matter Studios'],['Bethesda Softworks'],['Action'],7994,"3 Aug, 2007",True,False,False,4.99
+554620,Life is Strange: Before the Storm,False,16,"['Deck Nine', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['Square Enix', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['Action', 'Adventure']",33481,"31 Aug, 2017",True,True,True,16.99
+368500,Assassin's Creed® Syndicate,False,0,"['Ubisoft Quebec, in collaboration with Ubisoft Annecy, Bucharest, Kiev, Montreal, Montpellier, Shanghai, Singapore, Sofia, Toronto studios']",['Ubisoft'],"['Action', 'Adventure']",31055,"18 Nov, 2015",True,False,False,39.99
+17470,Dead Space (2008),False,0,['EA Redwood Shores'],['Electronic Arts'],"['Action', 'Adventure']",22865,"9 Jan, 2009",True,False,False,19.99
+204300,Awesomenauts,False,0,['Ronimo Games'],['Atari'],"['Action', 'Indie', 'Strategy']",11822,"1 Aug, 2012",True,False,False,8.77
+630100,SoulWorker - Anime Action MMO,False,0,"['Lion Games Co., Ltd.']",['Gameforge 4D GmbH'],"['Action', 'Free To Play', 'Massively Multiplayer', 'RPG']",0,"26 Feb, 2018",True,False,False,0.0
+750920,Shadow of the Tomb Raider: Definitive Edition,False,16,"['Eidos-Montréal', 'Crystal Dynamics', 'Nixxes', 'Feral Interactive (Mac)', 'Feral interactive (Linux)']","['Crystal Dynamics', 'Feral Interactive (Mac)', 'Feral interactive (Linux)']","['Action', 'Abenteuer']",72358,14. Sep. 2018,True,True,True,5.99
+436520,Line of Sight,True,0,['BlackSpot Entertainment'],['BlackSpot Entertainment'],"['Action', 'Free To Play', 'Indie', 'Massively Multiplayer']",2622,"31 Jan, 2017",True,False,False,0.0
+1659040,HITMAN World of Assassination,False,18,['IO Interactive A/S'],['IO Interactive A/S'],"['Action', 'Adventure']",58209,"20 Jan, 2022",True,True,False,0.0
+788100,Neon Abyss,False,0,['Veewo Games'],"['Team17', 'Veewo Games']","['Action', 'Adventure', 'Indie', 'RPG']",19701,"14 Jul, 2020",True,False,False,19.99
+858820,Tribes of Midgard,False,0,['Norsfell'],"['Gearbox Publishing', '2K']","['Action', 'Adventure', 'Indie', 'RPG']",17447,"27 Jul, 2021",True,False,False,4.99
+680420,OUTRIDERS,False,18,['People Can Fly'],['Square Enix'],"['Action', 'Adventure', 'RPG']",46142,"1 Apr, 2021",True,False,False,19.99
+678960,CODE VEIN,False,0,['Bandai Namco Studios'],['Bandai Namco Entertainment'],"['Action', 'RPG']",46269,"26 Sep, 2019",True,False,False,49.99
+1611910,"Warhammer 40,000: Chaos Gate - Daemonhunters",False,17,['Complex Games'],['Frontier Foundry'],"['RPG', 'Strategy']",11391,"May 5, 2022",True,False,False,11.24
+206440,To the Moon,False,0,['Freebird Games'],"['Freebird Games', 'Serenity Forge']","['Adventure', 'Indie', 'RPG']",69478,"7 Sep, 2012",True,True,True,9.75
+613010,Secret in Story,False,0,['Naivus Luo'],['Naivus Luo'],"['Adventure', 'Indie']",0,"19 Jun, 2017",True,True,False,0.99
+424280,Iron Snout,True,0,['SnoutUp'],['SnoutUp'],"['Action', 'Indie', 'Free To Play']",325,"27 Jan, 2016",True,True,True,0.0
+212160,Vindictus,True,0,['NEXON'],['NEXON America Inc.'],"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",0,"22 Jun, 2012",True,False,False,0.0
+1030830,Mafia II: Definitive Edition,False,0,"['Hangar 13', 'D3T']",['2K'],"['Action', 'Adventure']",28706,"19 May, 2020",True,False,False,29.99
+365450,Hacknet,False,0,['Team Fractal Alligator'],['Fellow Traveller'],"['Indie', 'Simulation']",16884,"12 Aug, 2015",True,True,True,1.46
+302510,Ryse: Son of Rome,False,17,['Crytek'],['Crytek '],['Action'],38175,"10 Oct, 2014",True,False,False,9.99
+22330,The Elder Scrolls IV: Oblivion® Game of the Year Edition (2009),False,0,['Bethesda Game Studios'],['Bethesda Softworks'],['RPG'],42901,"16 Jun, 2009",True,False,False,14.99
+1687950,Persona 5 Royal,False,17,['ATLUS'],['SEGA'],['RPG'],91081,"Oct 20, 2022",True,False,False,59.99
+238370,Magicka 2,False,0,['Pieces Interactive'],['Paradox Interactive'],"['Action', 'Adventure']",9481,"26 May, 2015",True,True,True,14.99
+113020,Monaco: What's Yours Is Mine,False,0,['Pocketwatch Games'],['Balor Games'],"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy']",3759,"24 Apr, 2013",True,True,True,14.99
+3070070,TCG Card Shop Simulator,False,0,['OPNeon Games'],['OPNeon Games'],"['Simulation', 'Early Access']",46942,"15 Sep, 2024",True,False,False,20.49
+977950,A Dance of Fire and Ice,False,0,['7th Beat Games'],"['7th Beat Games', 'indienova']",['Indie'],78434,"24 Jan, 2019",True,True,True,4.99
+6860,Hitman: Blood Money,False,18,['Io-Interactive A/S'],['Io-Interactive A/S'],['Action'],13608,"15 Mar, 2007",True,False,False,9.75
+1057240,Crucible Beta,False,0,['Relentless Studios'],['Amazon Games'],"['Action', 'Free To Play']",0,"20 May, 2020",True,False,False,0.0
+268050,The Evil Within,False,17,['Tango Gameworks'],['Bethesda Softworks'],['Action'],21413,"13 Oct, 2014",True,False,False,19.99
+511470,Glass Masquerade,False,0,['Onyx Lute'],['Onyx Lute'],"['Casual', 'Indie']",5597,"18 Nov, 2016",True,True,False,4.99
+389430,Knight Online,True,0,"['Noah System', 'Mgame']",['NTTGame'],"['Action', 'Adventure', 'Free To Play', 'Massively Multiplayer', 'RPG']",110,"25 Jan, 2016",True,False,False,0.0
+289130,ENDLESS Legend™,False,0,['AMPLITUDE Studios'],['AMPLITUDE Studios'],"['RPG', 'Strategy']",14405,"18 Sep, 2014",True,True,False,28.49
+488790,South Park™: The Fractured But Whole™,False,0,['Ubisoft San Francisco'],['Ubisoft'],['RPG'],31946,"16 Oct, 2017",True,False,False,29.99
+493520,GTFO,False,0,['10 Chambers'],['10 Chambers'],['Action'],46048,"9 Dec, 2021",True,False,False,12.59
+546560,Half-Life: Alyx,False,0,['Valve'],['Valve'],"['Action', 'Adventure']",92831,"23 Mar, 2020",True,False,False,58.99
+439190,Stories: The Path of Destinies,False,0,['Spearhead Games'],['Spearhead Games'],"['Action', 'Adventure', 'Indie', 'RPG']",1941,"12 Apr, 2016",True,False,False,14.79
+67370,The Darkness II,False,18,['Digital Extremes'],['2K'],['Action'],8154,"9 Feb, 2012",True,True,False,29.99
+845070,The Awesome Adventures of Captain Spirit,True,0,['DONTNOD Entertainment'],['Square Enix'],"['Adventure', 'Free To Play']",0,"25 Jun, 2018",True,False,False,0.0
+453480,Shadowverse CCG,False,0,"['Cygames, Inc.']","['Cygames, Inc.', 'Cygames Korea Inc.']","['Strategy', 'Free To Play']",338,"27 Oct, 2016",True,True,False,0.0
+633230,NARUTO TO BORUTO: SHINOBI STRIKER,False,0,['Soleil Ltd.'],['Bandai Namco Entertainment'],['Action'],42539,"Jun 29, 2023",True,False,False,4.99
+32370,STAR WARS™ Knights of the Old Republic™,False,0,"['BioWare', 'Aspyr (Mac)']","['LucasArts', 'Aspyr (Mac)', 'Disney', 'Lucasfilm']","['Abenteuer', 'Rollenspiel']",28487,5. Sep. 2009,True,True,False,9.75
+476600,Call of Duty®: WWII,False,18,"['Sledgehammer Games', 'Raven Software']",['Activision'],['Action'],33283,"2 Nov, 2017",True,False,False,59.99
+1404210,Red Dead Online,False,0,['Rockstar Games'],['Rockstar Games'],"['Action', 'Adventure']",59519,"1 Dec, 2020",True,False,False,19.99
+1557740,ROUNDS,False,0,['Landfall'],['Landfall'],"['Action', 'Indie']",35572,"1 Apr, 2021",True,True,False,2.74
+1619450,Heart of a Warrior,False,0,['Techworld Communication'],['Techworld Communication '],"['Action', 'Adventure', 'Indie', 'RPG']",0,"1 Feb, 2022",True,False,False,8.99
+683320,GRIS,False,0,['Nomada Studio'],['Devolver Digital'],"['Adventure', 'Indie']",83775,"13 Dec, 2018",True,True,False,14.79
+2551020,One-armed robber,True,0,['Duhndal'],['Duhndal'],"['Action', 'Indie', 'Simulation', 'Strategy', 'Free To Play']",0,"15 Dec, 2023",True,False,False,0.0
+1536610,OpenTTD,False,0,['OpenTTD'],['OpenTTD'],"['Casual', 'Indie', 'Simulation']",0,"1 Apr, 2021",True,True,True,0.0
+386940,Ultimate Chicken Horse,False,0,['Clever Endeavour Games'],['Clever Endeavour Games'],"['Action', 'Casual', 'Indie']",40986,"4 Mar, 2016",True,True,True,12.99
+346010,Besiege,False,0,['Spiderling Studios'],['Spiderling Studios'],"['Indie', 'Simulation']",48000,"18 Feb, 2020",True,True,True,14.79
+924970,Back 4 Blood,False,18,['Turtle Rock Studios'],['Warner Bros. Games'],['Action'],55127,"12 Oct, 2021",True,False,False,59.99
+349700,Romero's Aftermath,False,0,['Free Reign Entertainment'],"['OP Productions LLC', 'Free Reign East LLC']","['Violent', 'Action', 'Free To Play', 'Indie', 'Massively Multiplayer']",152,"24 Sep, 2015",True,False,False,0.0
+208140,ENDLESS Space™ - Definitive Edition,False,0,['AMPLITUDE Studios'],['AMPLITUDE Studios'],['Strategy'],6619,"4 Jul, 2012",True,True,False,9.99
+206500,AirMech,True,0,['Carbon Games'],['Carbon Games'],"['Action', 'Indie', 'Strategy', 'Free To Play']",0,"30 Mar, 2018",True,False,False,0.0
+57690,Tropico 4,False,0,['Haemimont Games'],['Kalypso Media Digital'],"['Simulation', 'Strategy']",8203,"1 Sep, 2011",True,False,False,4.49
+2322010,God of War Ragnarök,False,0,"['Santa Monica Studio', 'Jetpack Interactive']",['PlayStation Publishing LLC'],"['Action', 'Adventure', 'RPG']",32279,"19 Sep, 2024",True,False,False,59.99
+274940,Depth,False,18,['Ammobox Studios'],['Ammobox Studios'],"['Action', 'Indie']",23587,"3 Nov, 2014",True,False,False,16.99
+412220,DDNet,True,0,['DDNet Team'],['DDNet Team'],"['Action', 'Indie', 'Free To Play']",0,"17 Aug, 2020",True,True,True,0.0
+1290000,PowerWash Simulator,False,0,['FuturLab'],['FuturLab'],"['Casual', 'Indie', 'Simulation']",50833,"14 Jul, 2022",True,False,False,13.39
+1286680,Tiny Tina's Wonderlands,False,0,['Gearbox Software'],['2K'],"['Action', 'Adventure', 'RPG']",17741,"23 Jun, 2022",True,False,False,11.99
+39500,Gothic® 3,False,0,['Piranha Bytes'],['THQ Nordic'],"['Action', 'RPG']",9065,"2 Dec, 2009",True,False,False,19.99
+872790,Football Manager 2019,False,0,['Sports Interactive'],['SEGA'],"['Simulation', 'Sports']",7384,"2 Nov, 2018",True,True,False,0.0
+291650,Pillars of Eternity,False,0,['Obsidian Entertainment'],['Xbox Game Studios'],['RPG'],16968,"26 Mar, 2015",True,True,True,29.99
+17330,Crysis Warhead®,False,0,['Crytek'],['Electronic Arts'],['Action'],3813,"17 Sep, 2008",True,False,False,19.99
+1533390,Gorilla Tag,False,0,['Another Axiom Inc.'],['Another Axiom Inc.'],"['Action', 'Casual']",52382,"1 Jan, 2023",True,False,False,19.5
+606280,Darksiders III,False,0,['Gunfire Games'],['THQ Nordic'],"['Action', 'Adventure', 'RPG']",12488,"27 Nov, 2018",True,False,False,39.99
+10500,Total War: EMPIRE – Definitive Edition,False,0,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Strategy'],21277,"4 Mar, 2009",True,True,True,19.99
+1476970,IdleOn - The Incremental MMO,True,0,['Lavaflame2'],['Lavaflame2'],"['Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy', 'Free To Play']",0,"6 Nov, 2025",True,False,False,0.0
+1262580,Need for Speed™ Payback,False,12,['Ghost Games'],['Electronic Arts'],"['Action', 'Adventure', 'Racing', 'Sports', 'Strategy']",27333,"18 Jun, 2020",True,False,False,29.99
+246620,Plague Inc: Evolved,False,0,['Ndemic Creations'],['Ndemic Creations'],"['Casual', 'Indie', 'Simulation', 'Strategy']",59046,"18 Feb, 2016",True,True,True,14.79
+319830,AX:EL - Air XenoDawn,True,0,['Alex Piola'],['KISS ltd'],"['Action', 'Indie', 'Simulation']",0,"4 Dec, 2015",True,False,False,0.0
+324800,Shadow Warrior 2,False,0,['Flying Wild Hog'],['Devolver Digital'],"['Action', 'Adventure']",24096,"13 Oct, 2016",True,False,False,28.99
+341800,Keep Talking and Nobody Explodes,False,0,['Steel Crate Games'],['Steel Crate Games'],['Indie'],14315,"8 Oct, 2015",True,True,True,14.79
+322500,SUPERHOT,False,0,['SUPERHOT Team'],['SUPERHOT Team'],"['Action', 'Indie']",27757,"25 Feb, 2016",True,True,True,22.49
+939960,Far Cry® New Dawn,False,0,"['Ubisoft Montreal', 'Ubisoft Kiev', 'Ubisoft Shanghai']",['Ubisoft'],"['Action', 'Adventure']",32138,"15 Feb, 2019",True,False,False,44.99
+239820,Game Dev Tycoon,False,0,['Greenheart Games 💚'],['Greenheart Games 💚'],"['Casual', 'Indie', 'Simulation', 'Strategy']",40281,"29 Aug, 2013",True,True,True,3.79
+509980,BIGFOOT,False,0,['CyberLight Game Studio'],['CyberLight Game Studio'],"['Action', 'Adventure', 'Indie', 'Early Access']",17801,"31 Jan, 2017",True,False,False,20.49
+364360,Total War: WARHAMMER,False,0,"['CREATIVE ASSEMBLY', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']","['SEGA', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']","['Action', 'Strategy']",32624,"May 24, 2016",True,True,True,59.99
+492720,Tropico 6,False,16,"['Limbic Entertainment', 'Realmforge Studios']",['Kalypso Media'],"['Simulation', 'Strategy']",19788,"29 Mar, 2019",True,True,True,11.99
+12110,Grand Theft Auto: Vice City,False,18,['Rockstar Games'],['Rockstar Games'],['Action'],24199,"4 Jan, 2008",True,False,False,0.0
+460790,Bayonetta,False,17,['PlatinumGames'],['SEGA'],"['Action', 'Adventure']",27316,"11 Apr, 2017",True,False,False,19.99
+1213210,Command & Conquer™ Remastered Collection,False,16,"['Petroglyph', 'Lemon Sky Studios']",['Electronic Arts'],['Strategy'],31457,"5 Jun, 2020",True,False,False,19.99
+627690,Idle Champions of the Forgotten Realms,True,0,['Codename Entertainment Inc.'],['Codename Entertainment Inc.'],"['Action', 'Adventure', 'Indie', 'Strategy', 'Free To Play']",0,"25 Mar, 2020",True,True,False,0.0
+569480,Kingdoms and Castles,False,0,"['Lion Shield, LLC']","['Lion Shield, LLC']","['Indie', 'Simulation', 'Strategy']",30302,"20 Jul, 2017",True,True,True,19.49
+2021910,FPS Chess,True,0,"['Meta Fork', 'Evergreen Games']","['DigiPen Institute of Technology', 'Evergreen Games']","['Action', 'Casual', 'Strategy', 'Free To Play']",0,"16 Jul, 2022",True,False,True,0.0
+242860,Verdun,False,0,['BlackMill Games'],['BlackMill Games'],"['Action', 'Indie', 'Massively Multiplayer', 'Simulation', 'Strategy']",28962,"28 Apr, 2015",True,True,True,3.99
+239160,Thief,False,16,"['Eidos-Montréal', 'Feral Interactive (Mac)']","['Eidos Interactive Corp.', 'Feral Interactive (Mac)']","['Action', 'Adventure']",17372,"27 Feb, 2014",True,True,False,2.99
+391460,WARMODE,True,0,['Novalink'],['Novalink'],"['Action', 'Free To Play']",328,"13 Sep, 2019",True,False,False,0.0
+636480,Ravenfield,False,0,['SteelRaven7'],['SteelRaven7'],"['Action', 'Indie', 'Early Access']",76381,"18 May, 2017",True,True,True,17.49
+2100,Dark Messiah of Might & Magic,False,0,['Arkane Studios'],['Ubisoft'],"['Action', 'RPG']",9323,"25 Oct, 2006",True,False,False,4.99
+228280,Baldur's Gate: Enhanced Edition,False,0,['Beamdog'],['Beamdog'],"['Adventure', 'RPG']",15356,"16 Jan, 2013",True,True,True,19.5
+21690,Resident Evil 5,False,18,['Capcom'],['Capcom'],"['Action', 'Adventure']",48243,"15 Sep, 2009",True,False,False,19.99
+2420510,HoloCure - Save the Fans!,True,0,['KayAnimate'],['KayAnimate'],"['Action', 'Adventure', 'Casual', 'Indie']",0,"16 Aug, 2023",True,False,False,0.0
+629730,Blade and Sorcery,False,0,['WarpFrog'],['WarpFrog'],"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",58989,"17 Jun, 2024",True,False,False,29.99
+113420,Fallen Earth Classic,True,0,['Little Orbit'],['Little Orbit'],"['Free To Play', 'Massively Multiplayer', 'RPG']",0,"22 Feb, 2012",True,False,False,0.0
+304240,Resident Evil,False,0,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']","['Action', 'Adventure']",27255,"19 Jan, 2015",True,False,False,19.99
+269210,Hero Siege,False,0,['Panic Art Studios Ltd'],['Panic Art Studios Ltd'],"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",36662,"29 Jan, 2014",True,False,True,7.79
+706990,BLOCKPOST LEGACY,True,0,['Skullcap Studios'],['Skullcap Studios'],"['Action', 'Indie', 'Free To Play']",0,"25 Apr, 2019",True,False,False,0.0
+621060,PC Building Simulator,False,0,"['Claudiu Kiss', 'The Irregular Corporation']",['The Irregular Corporation'],"['Indie', 'Simulation']",42141,"29 Jan, 2019",True,False,False,19.99
+48190,Assassin’s Creed® Brotherhood,False,18,['Ubisoft Montreal'],['Ubisoft'],"['Action', 'Adventure']",24921,"17 Mar, 2011",True,False,False,14.99
+638970,Yakuza 0,False,18,['Ryu Ga Gotoku Studio'],['SEGA'],"['Action', 'Adventure', 'RPG']",61747,"1 Aug, 2018",True,False,False,0.0
+24010,Train Simulator Classic,False,0,['Dovetail Games'],"['Dovetail Games - Trains', 'Dovetail Games']",['Simulation'],19436,"17 Sep, 2015",True,False,False,29.99
+228380,Wreckfest,False,0,['Bugbear'],['THQ Nordic'],"['Action', 'Indie', 'Racing', 'Simulation', 'Sports']",31331,"14 Jun, 2018",True,False,False,29.99
+327690,Gigantic,False,0,['Motiga Inc.'],['Perfect World Entertainment'],"['Action', 'Free To Play', 'Strategy']",0,"19 Jul, 2017",True,False,False,0.0
+417860,Emily is Away,True,0,['Kyle Seeley'],['Kyle Seeley'],"['Adventure', 'Casual', 'Free To Play', 'Indie', 'Simulation']",365,"20 Nov, 2015",True,True,True,0.0
+1262350,SIGNALIS,False,0,['rose-engine'],['Balor Games'],"['Action', 'Adventure', 'Indie']",30432,"27 Oct, 2022",True,False,False,19.99
+1058020,"STAR WARS™ Battlefront (Classic, 2004)",False,0,['Pandemic Studios'],"['Lucasfilm', 'LucasArts', 'Disney']",['Action'],4229,"1 May, 2019",True,False,False,9.75
+582160,Assassin's Creed® Origins,False,0,['Ubisoft Montreal'],['Ubisoft'],"['Action', 'Adventure', 'RPG']",119540,"26 Oct, 2017",True,False,False,59.99
+287450,Rise of Nations: Extended Edition,False,0,"['SkyBox Labs', 'Big Huge Games']",['Xbox Game Studios'],"['Simulation', 'Strategy']",13328,"12 Jun, 2014",True,False,False,19.99
+582500,We Were Here,True,0,['Total Mayhem Games'],['Total Mayhem Games'],"['Action', 'Adventure', 'Indie', 'Free To Play']",1748,"3 Feb, 2017",True,True,False,0.0
+442080,Riders of Icarus,False,0,"['WeMade', 'VALOFE']",['VALOFE'],"['Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",723,"6 Jul, 2016",True,False,False,0.0
+519860,DUSK,False,0,['David Szymanski'],['New Blood Interactive'],"['Action', 'Indie']",22044,"10 Dec, 2018",True,True,True,19.49
+22320,The Elder Scrolls III: Morrowind® Game of the Year Edition,False,0,['Bethesda Game Studios'],['Bethesda Softworks'],['RPG'],22273,"16 Jun, 2009",True,False,False,14.99
+704270,Generation Zero®,False,0,['Systemic Reaction™'],['Avalanche Studios'],"['Action', 'Adventure']",29073,"26 Mar, 2019",True,False,False,24.99
+40990,Mafia,False,0,['Illusion Softworks'],['2K'],"['Action', 'Adventure']",8875,"28 Aug, 2002",True,False,False,365.0
+1627140,Sabre Team,False,0,['Krisalis Software'],['Ziggurat'],"['RPG', 'Strategy']",0,"4 Jun, 2021",True,False,False,5.69
+612880,Wolfenstein II: The New Colossus,False,18,['MachineGames'],['Bethesda Softworks'],['Action'],35195,"26 Oct, 2017",True,False,False,29.99
+638070,Murderous Pursuits,False,0,['Blazing Griffin'],['Blazing Griffin'],"['Action', 'Indie', 'Simulation', 'Strategy']",376,"26 Apr, 2018",True,False,False,8.99
+3146520,WEBFISHING,False,0,['lamedeveloper'],['lamedeveloper'],"['Casual', 'Indie', 'Massively Multiplayer']",57320,"11 Oct, 2024",True,False,False,4.99
+232890,Stronghold Crusader 2,False,0,['Firefly Studios'],['Firefly Studios'],"['Simulation', 'Strategy']",12601,"22 Sep, 2014",True,False,False,29.99
+6000,STAR WARS™ Republic Commando™,False,0,['LucasArts'],"['LucasArts', 'Lucasfilm', 'Disney']",['Action'],14631,"8 Jul, 2009",True,False,False,9.75
+1049410,Superliminal,False,0,['Pillow Castle'],['Pillow Castle'],"['Action', 'Adventure']",28340,"5 Nov, 2020",True,True,True,7.59
+1343370,Old School RuneScape,True,0,['Jagex Ltd'],['Jagex Ltd'],"['Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",0,"24 Feb, 2021",True,True,False,0.0
+1238860,Battlefield 4™,False,18,['DICE'],['Electronic Arts'],['Action'],69235,"11 Jun, 2020",True,False,False,39.99
+961200,Predecessor,True,0,['Omeda Studios'],['Omeda Studios'],"['Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",8591,"20 Aug, 2024",True,False,False,0.0
+102600,Orcs Must Die!,False,0,['Robot Entertainment'],['Robot Entertainment'],"['Action', 'Indie', 'Strategy']",6660,"11 Oct, 2011",True,False,False,8.19
+2527500,MiSide,False,0,['AIHASTO'],"['IndieArk', 'Shochiku (Japan)']","['Adventure', 'Indie', 'RPG', 'Simulation']",121690,"10 Dec, 2024",True,False,False,14.79
+870780,CONTROL Ultimate Edition,False,16,['Remedy Entertainment'],['Remedy Entertainment'],"['Action', 'Adventure']",49926,"27 Aug, 2020",True,True,False,3.99
+24980,Mass Effect 2 (2010 Edition),False,0,['BioWare'],['Electronic Arts'],['RPG'],13318,,True,False,False,0.0
+312520,Rain World,False,0,['Videocult'],['Akupara Games'],"['Action', 'Adventure', 'Indie']",46431,"28 Mar, 2017",True,False,False,23.79
+285190,"Warhammer 40,000: Dawn of War III",False,0,"['Relic Entertainment', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['Relic Entertainment', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['Action', 'Simulation', 'Strategy']",14408,"27 Apr, 2017",True,True,True,39.99
+202170,Sleeping Dogs,False,18,['United Front Games'],['Square Enix'],"['Action', 'Adventure']",10240,,True,False,False,0.0
+235600,Tom Clancy’s Splinter Cell Blacklist,False,0,['Ubisoft Toronto'],['Ubisoft'],"['Action', 'Adventure']",19277,"22 Aug, 2013",True,False,False,19.99
+34030,Total War: NAPOLEON – Definitive Edition,False,0,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)']","['SEGA', 'Feral Interactive (Mac)']",['Strategy'],17960,"25 Feb, 2010",True,True,False,19.99
+459820,Crush Crush,True,0,['Sad Panda Studios'],['Sad Panda Studios'],"['Casual', 'Indie', 'Free To Play']",567,"18 Oct, 2016",True,True,True,0.0
+47810,Dragon Age: Origins - Ultimate Edition,False,17,['BioWare'],['Electronic Arts'],['RPG'],28647,"Oct 26, 2010",True,False,False,29.99
+1313860,EA SPORTS™ FIFA 21,False,0,['EA Canada'],['Electronic Arts'],"['Simulation', 'Sports']",39582,"8 Oct, 2020",True,False,False,0.0
+280790,Creativerse,False,0,['Playful Corp.'],['Playful Corp.'],"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation']",2643,"8 May, 2017",True,False,False,9.19
+2280,DOOM + DOOM II,False,17,"['id Software', 'Nightdive Studios']",['Bethesda'],['Action'],25402,"3 Aug, 2007",True,False,False,12.99
+214420,Gear Up,True,0,['Doctor Entertainment AB'],['Doctor Entertainment AB'],"['Action', 'Free To Play', 'Indie']",943,"28 Jan, 2015",True,True,True,0.0
+1515950,Capcom Arcade Stadium,True,0,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']","['Action', 'Free To Play']",402,"24 May, 2021",True,False,False,14.99
+232050,Eador. Masters of the Broken World,False,0,['Snowbird Games'],['Snowbird Games'],"['Indie', 'RPG', 'Strategy']",1659,"19 Apr, 2013",True,False,False,18.99
+130,Half-Life: Blue Shift,False,0,['Gearbox Software'],['Valve'],['Action'],18624,"1 Jun, 2001",True,True,True,4.99
+809960,Radical Heights,False,0,['Boss Key Productions'],['Boss Key Productions'],"['Action', 'Adventure', 'Free To Play', 'Indie', 'Massively Multiplayer', 'Early Access']",0,"10 Apr, 2018",True,False,False,0.0
+47790,Medal of Honor™,False,0,['Electronic Arts'],['Electronic Arts'],['Action'],7003,"12 Oct, 2010",True,False,False,19.99
+253980,Enclave,False,0,['Starbreeze'],['Topware Interactive'],"['Action', 'RPG']",1848,"4 Oct, 2013",True,True,True,9.75
+292730,Call of Duty®: Infinite Warfare,False,18,['Infinity Ward'],['Activision'],"['Action', 'Adventure']",17322,"3 Nov, 2016",True,False,False,59.99
+774361,Blasphemous,False,0,['The Game Kitchen'],['Team17'],"['Action', 'Adventure', 'Indie']",54445,"10 Sep, 2019",True,True,True,6.24
+34270,SEGA Mega Drive and Genesis Classics,False,12,['D3T Limited'],['SEGA'],"['Action', 'Adventure', 'Casual', 'RPG']",7991,"1 Jun, 2010",True,True,True,0.0
+251060,Wargame: Red Dragon,False,0,['Eugen Systems'],['Eugen Systems'],"['Indie', 'Simulation', 'Strategy']",15748,"17 Apr, 2014",True,True,True,29.99
+4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,False,0,['GSC Game World'],['GSC Game World'],"['Action', 'RPG']",38064,"20 Mar, 2007",True,False,False,19.99
+32470,STAR WARS™ Empire at War - Gold Pack,False,0,['Petroglyph'],"['LucasArts', 'Lucasfilm', 'Disney']",['Strategy'],36081,"25 May, 2010",True,False,False,19.5
+837470,Untitled Goose Game,False,0,['House House'],['Panic'],"['Action', 'Indie']",22735,"23 Sep, 2020",True,True,False,18.99
+834910,ATLAS,False,0,"['Grapeshot Games', 'Instinct Games']","['Grapeshot Games', 'Snail Games USA']","['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Early Access']",37114,"22 Dec, 2018",True,False,False,24.99
+454650,DRAGON BALL XENOVERSE 2,False,0,"['QLOC', 'Dimps Corporation']",['Bandai Namco Entertainment'],"['Action', 'Adventure', 'Casual', 'Massively Multiplayer']",44996,"27 Oct, 2016",True,False,False,19.99
+1284410,GWENT: The Witcher Card Game,True,0,['CD PROJEKT RED'],['CD PROJEKT RED'],"['RPG', 'Strategy', 'Free To Play']",0,"19 May, 2020",True,False,False,0.0
+1238820,Battlefield 3™,False,16,['DICE'],['Electronic Arts'],['Action'],16313,"11 Jun, 2020",True,False,False,39.99
+323470,DRAGON BALL XENOVERSE,False,0,['DIMPS'],['BANDAI NAMCO Entertainment'],['Action'],17526,"26 Feb, 2015",True,False,False,39.99
+1089980,The Henry Stickmin Collection,False,0,['PuffballsUnited'],['Innersloth'],"['Adventure', 'Casual', 'Indie']",55593,"7 Aug, 2020",True,True,False,5.59
+1147560,Skul: The Hero Slayer,False,0,['SOUTHPAW GAMES'],['NEOWIZ'],"['Action', 'Indie']",50779,"20 Jan, 2021",True,True,True,16.79
+214560,Mark of the Ninja,False,16,['Klei Entertainment'],['Microsoft Studios'],"['Action', 'Adventure', 'Indie']",11747,,True,True,True,0.0
+225080,Brothers - A Tale of Two Sons,False,0,['Starbreeze Studios AB'],['505 Games'],"['Action', 'Adventure', 'Indie']",33763,"3 Sep, 2013",True,False,False,14.99
+237930,Transistor,False,0,['Supergiant Games'],['Supergiant Games'],"['Action', 'Indie', 'RPG']",27989,"20 May, 2014",True,True,True,19.5
+96100,Defy Gravity Extended,False,0,['Paul Fisch'],['Fish Factory Games'],"['Action', 'Casual', 'Indie']",6770,"18 Mar, 2016",True,False,False,0.55
+113200,The Binding of Isaac,False,0,"['Edmund McMillen', 'Florian Himsl']",['Edmund McMillen'],"['Action', 'Adventure', 'Indie', 'RPG']",49176,"28 Sep, 2011",True,True,False,4.99
+2310,Quake,False,18,"['id Software', 'Nightdive Studios', 'MachineGames']",['Bethesda Softworks'],['Action'],13886,"3 Aug, 2007",True,False,False,9.99
+599140,Graveyard Keeper,False,0,['Lazy Bear Games'],['tinyBuild'],"['Adventure', 'Indie', 'RPG', 'Simulation']",39409,"15 Aug, 2018",True,True,True,19.5
+1840,Source Filmmaker,True,0,['Valve'],['Valve'],"['Animation & Modeling', 'Video Production']",220,"10 Jul, 2012",True,False,False,0.0
+65980,Sid Meier's Civilization®: Beyond Earth™,False,0,"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",['Strategy'],14024,"23 Oct, 2014",True,True,True,39.99
+373420,Divinity: Original Sin - Enhanced Edition,False,0,['Larian Studios'],['Larian Studios'],"['Adventure', 'Indie', 'RPG', 'Strategy']",27400,"27 Oct, 2015",True,True,True,39.99
+1621690,Core Keeper,False,0,['Pugstorm'],"['Fireshine Games', 'bilibili']","['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",49876,"27 Aug, 2024",True,False,True,11.99
+1089090,ONE PIECE: PIRATE WARRIORS 4,False,0,['Koei Tecmo'],['BANDAI NAMCO Entertainment'],['Action'],17249,"14 Sep, 2023",True,False,False,39.99
+311860,Data Hacker: Initiation,False,0,['New Reality Games'],['New Reality Games'],"['Adventure', 'Indie', 'RPG', 'Simulation']",139,"21 Jul, 2014",True,False,False,2.09
+942970,Unheard - Voices of Crime,False,0,['NEXT Studios'],"['NEXT Studios', '505 Games']","['Indie', 'RPG', 'Simulation']",30928,"28 Mar, 2019",True,True,False,5.69
+41500,Torchlight,False,0,['Runic Games'],['XD'],['RPG'],5456,"27 Oct, 2009",True,True,False,14.99
+17080,Tribes: Ascend,False,0,['Hi-Rez Studios'],['Hi-Rez Studios'],"['Action', 'Free To Play']",0,"27 Jun, 2012",True,False,False,0.0
+1778820,TEKKEN 8,False,0,['Bandai Namco Studios Inc.'],['Bandai Namco Entertainment'],['Action'],47345,"25 Jan, 2024",True,False,False,1695.0
+1522820,Orcs Must Die! 3,False,0,['Robot Entertainment'],['Robot Entertainment'],"['Action', 'Adventure', 'Indie', 'Strategy']",10912,"23 Jul, 2021",True,False,False,24.99
+23310,The Last Remnant™,False,0,['Square Enix'],['Square Enix'],['RPG'],2791,"9 Apr, 2009",True,False,False,0.0
+487220,Freebie,False,0,"['Free Games Info', 'hyperboreanGames']",['Back To Basics Gaming'],"['Casual', 'Indie']",377,"16 Jun, 2016",True,False,False,2.09
+3900,Sid Meier's Civilization® IV,False,0,['Firaxis Games'],['2K'],['Strategy'],2776,"25 Oct, 2006",True,True,False,19.99
+4570,"Warhammer 40,000: Dawn of War - Anniversary Edition (Classic)",False,0,['Relic Entertainment'],['Relic Entertainment'],['Strategy'],8804,"7 Aug, 2007",True,False,False,13.99
+2322560,Love Is All Around,False,0,['intiny'],['intiny'],"['Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']",36199,"17 Oct, 2023",True,True,True,9.75
+2344520,Diablo® IV,False,18,"['Blizzard Entertainment, Inc.']","['Blizzard Entertainment, Inc.']","['Action', 'Adventure', 'Casual', 'Massively Multiplayer', 'RPG']",57392,"17 Oct, 2023",True,False,False,49.99
+6880,Just Cause,False,16,['Avalanche Studios'],['Square Enix'],['Action'],4545,"15 Mar, 2007",True,False,False,6.99
+10680,Aliens vs. Predator™,False,0,['Rebellion'],['SEGA'],['Action'],16194,"16 Feb, 2010",True,False,False,14.99
+216150,MapleStory,True,0,['NEXON Korea Corporation'],['Nexon America Inc.'],"['Action', 'Adventure', 'Casual', 'Massively Multiplayer', 'RPG', 'Free To Play']",101,"Aug 9, 2012",True,True,False,0.0
+443110,Armored Warfare,True,0,"['Obsidian Entertainment', 'Wishlist Games']",['Wishlist Games'],"['Action', 'Massively Multiplayer', 'Simulation', 'Free To Play']",0,"17 Nov, 2017",True,False,False,0.0
+378540,The Surge,False,0,['Deck13'],['Focus Entertainment'],"['Action', 'RPG']",9119,"15 May, 2017",True,False,False,14.99
+527430,"Warhammer 40,000: Inquisitor - Martyr",False,0,['NeocoreGames'],['NeocoreGames'],"['Action', 'Adventure', 'Indie', 'RPG']",19536,"5 Jun, 2018",True,False,False,49.99
+753640,Outer Wilds,False,0,['Mobius Digital'],['Annapurna Interactive'],"['Action', 'Adventure']",89018,"18 Jun, 2020",True,False,False,13.79
+583950,Artifact,True,0,['Valve'],['Valve'],['Strategy'],19449,"28 Nov, 2018",True,True,True,0.0
+206480,Dungeons & Dragons Online®,True,0,['Standing Stone Games'],['Daybreak Game Company LLC'],"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",0,"25 Jun, 2012",True,False,False,0.0
+334210,Fortified,False,0,['Siege Camp'],['Siege Camp'],"['Action', 'Indie', 'Strategy']",218,"3 Feb, 2016",True,False,False,14.99
+921630,音灵 INVAXION,False,0,['Nanjing AQUATRAX'],['bilibili'],"['Casual', 'Indie', 'Racing']",5504,"19 Dec, 2018",True,False,False,0.0
+215080,WAKFU,True,0,['Ankama Studio'],['Ankama Games'],"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",148,"18 Sep, 2014",True,True,True,0.0
+65790,Arma: Cold War Assault Remastered,False,16,"['Bohemia Interactive', 'Josef Šimánek (retro)']",['Bohemia Interactive'],"['Action', 'Simulation', 'Strategy']",2400,"8 Aug, 2011",True,False,True,4.99
+332070,School of Dragons,False,0,"['JumpStart Games, Inc.']","['JumpStart Games, Inc.']","['Adventure', 'Free To Play', 'Massively Multiplayer', 'RPG']",0,"4 Dec, 2014",True,False,False,0.0
+311340,METAL GEAR SOLID V: GROUND ZEROES,False,18,['KONAMI'],['KONAMI'],"['Action', 'Adventure']",13465,"18 Dec, 2014",True,False,False,17.99
+535930,Two Point Hospital,False,0,['Two Point Studios'],['SEGA'],"['Indie', 'Simulation']",26614,"29 Aug, 2018",True,True,True,29.99
+414700,Outlast 2,False,0,['Red Barrels'],['Red Barrels'],"['Action', 'Adventure', 'Indie']",54134,"24 Apr, 2017",True,False,False,19.5
+270150,RUNNING WITH RIFLES,False,0,['Osumia Games'],['Osumia Games'],"['Action', 'Indie']",14662,"2 Apr, 2015",True,True,True,14.99
+292910,Deponia: The Complete Journey,False,0,['Daedalic Entertainment'],['Daedalic Entertainment'],['Adventure'],3373,"8 Jul, 2014",True,True,True,29.99
+447020,Farming Simulator 17,False,0,['GIANTS Software'],['GIANTS Software'],['Simulation'],23050,"24 Oct, 2016",True,True,False,14.99
+1282730,Loop Hero,False,0,['Four Quarters'],['Devolver Digital'],"['Indie', 'RPG', 'Strategy']",33799,"4 Mar, 2021",True,True,True,14.79
+17300,Crysis,False,0,['Crytek'],['Electronic Arts'],['Action'],11951,"17 Sep, 2008",True,False,False,29.99
+102500,Kingdoms of Amalur: Reckoning™,False,18,"['Big Huge Games', '38 Studios']","['38 Studios', 'Electronic Arts']","['Action', 'RPG']",11905,,True,False,False,0.0
+32800,Lord of the Rings: War in the North,False,0,['Snowblind Studios'],['Warner Bros. Interactive Entertainment'],"['Action', 'RPG']",3540,"1 Nov, 2011",True,False,False,0.0
+8850,BioShock® 2,False,18,"['2K Marin', '2K China', 'Digital Extremes', '2K Australia']",['2K'],['Action'],11458,"9 Feb, 2010",True,False,False,2.99
+899440,GOD EATER 3,False,0,['BANDAI NAMCO Studios Inc.'],['BANDAI NAMCO Entertainment'],['Action'],7723,"7 Feb, 2019",True,False,False,49.99
+418240,Shadow Tactics: Blades of the Shogun,False,0,['Mimimi Games'],['Daedalic Entertainment'],"['Indie', 'Strategy']",30815,"6 Dec, 2016",True,True,True,3.99
+207230,ArcheBlade™,True,0,['CodeBrush Games'],['Codebrush Games'],"['Action', 'Free To Play', 'Indie']",0,"25 Apr, 2014",True,False,False,0.0
+20570,"Warhammer® 40,000: Dawn of War® II Chaos Rising",False,0,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']","['SEGA', 'Feral Interactive (Mac/Linux)']",['Strategy'],1988,"11 Mar, 2010",True,True,True,0.0
+17460,Mass Effect (2007),False,17,['BioWare'],['Electronic Arts'],"['Action', 'RPG']",14872,"19 Dec, 2008",True,False,False,39.99
+383150,Dead Island Definitive Edition,False,18,['Techland'],['Deep Silver'],['Action'],23981,"31 May, 2016",True,False,True,1.99
+224760,FEZ,False,0,['Polytron Corporation'],['Trapdoor'],['Indie'],11648,"1 May, 2013",True,True,True,9.99
+1178830,Bright Memory: Infinite,False,0,['FYQD-Studio'],"['FYQD-Studio', 'PLAYISM']","['Action', 'Indie']",36212,"11 Nov, 2021",True,False,False,16.79
+2012510,Stormgate,True,0,['Frost Giant Studios'],['Frost Giant Studios'],"['Action', 'Strategy', 'Free To Play']",2106,"5 Aug, 2025",True,False,False,0.0
+510840,Evolvation,False,0,"['Eric Ruts', 'Jacob Kooiman']",['HyperReuts'],"['Action', 'Casual', 'Indie', 'Simulation']",0,"6 Feb, 2017",True,False,True,1.99
+297000,Heroes® of Might & Magic® III - HD Edition,False,0,['Dotemu'],['Ubisoft Entertainment'],"['RPG', 'Strategy']",20090,"28 Jan, 2015",True,False,False,14.99
+1151640,Horizon Zero Dawn™ Complete Edition,False,16,['Guerrilla'],['PlayStation Publishing LLC'],"['Action', 'Adventure', 'RPG']",95774,"7 Aug, 2020",True,False,False,0.0
+334230,Town of Salem,False,0,['BlankMediaGames'],['Digital Bandidos'],"['Action', 'Casual', 'RPG', 'Strategy']",30893,"15 Dec, 2014",True,True,False,4.99
+418070,Turbo Pug,False,0,"['Space Cat Studios', 'SnowFlame', 'Back To Basics Gaming']",['Back To Basics Gaming'],"['Casual', 'Indie']",2234,"9 Nov, 2015",True,False,False,2.09
+364470,The Elder Scrolls®: Legends™,False,0,"['Sparkypants Studios, LLC']",['Bethesda Softworks'],['Free To Play'],0,"31 May, 2017",True,True,False,0.0
+601430,The Evil Within 2,False,18,['Tango Gameworks'],['Bethesda Softworks'],"['Action', 'Adventure']",19743,"12 Oct, 2017",True,False,False,29.99
+1190000,Car Mechanic Simulator 2021,False,0,['Red Dot Games'],['PlayWay S.A.'],"['Racing', 'Simulation']",36824,"11 Aug, 2021",True,False,False,24.5
+39140,FINAL FANTASY VII,False,12,['Square Enix'],['Square Enix'],['RPG'],26245,,True,False,False,0.0
+4700,Total War: MEDIEVAL II – Definitive Edition,False,0,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Strategy'],27246,"15 Nov, 2006",True,True,True,19.99
+263500,Dragons and Titans,False,0,['Wyrmbyte'],['Versus Evil\t'],"['Action', 'Adventure', 'Free To Play', 'Indie', 'RPG']",0,"12 Mar, 2014",True,True,True,0.0
+675010,MudRunner,False,0,['Saber Interactive'],['Focus Entertainment'],['Simulation'],37545,"30 Oct, 2017",True,False,False,29.95
+220440,DmC: Devil May Cry,False,16,['Ninja Theory'],['Capcom'],"['Action', 'Adventure']",20874,"24 Jan, 2013",True,False,False,7.49
+240320,Panzar,True,0,['Panzar Studio'],['OVALIS INVESTMENTS LIMITED'],"['Action', 'Massively Multiplayer', 'RPG', 'Free To Play']",0,"25 Nov, 2013",True,False,False,0.0
+544730,Catan Universe,True,0,['Client/Frontend: Endava  / Backend: SuperNimbus'],['USM'],"['Casual', 'Strategy']",0,"25 Apr, 2017",True,True,False,0.0
+337320,Paint the Town Red,False,0,['South East Games'],['South East Games'],"['Action', 'Indie']",29105,"29 Jul, 2021",True,True,True,19.5
+350640,Sherlock Holmes: The Devil's Daughter,False,0,['Frogwares'],['Frogwares'],"['Action', 'Adventure']",12051,"10 Jun, 2016",True,False,False,29.99
+2231450,Pizza Tower,False,0,['Tour De Pizza'],['Tour De Pizza'],"['Action', 'Indie']",66240,"26 Jan, 2023",True,False,False,19.5
+552100,Brick Rigs,False,0,['Fluppisoft GmbH'],['Fluppisoft GmbH'],['Simulation'],53526,"14 Jul, 2023",True,False,True,13.99
+1475810,Ghostwire: Tokyo,False,0,['Tango Gameworks'],['Bethesda Softworks'],['Action'],12871,"24 Mar, 2022",True,False,False,59.99
+427270,Orcs Must Die! Unchained,False,0,['Robot Entertainment'],['Robot Entertainment'],"['Action', 'Free To Play', 'Strategy']",151,"19 Apr, 2017",True,False,False,0.0
+392160,X4: Foundations,False,0,['Egosoft'],['Egosoft'],"['Action', 'Simulation', 'Strategy']",25160,"30 Nov, 2018",True,False,True,49.99
+346330,BrainBread 2,True,0,['Reperio Studios'],['Reperio Studios'],"['Action', 'Adventure', 'Indie', 'Free To Play']",0,"9 Mar, 2022",True,True,True,0.0
+3910,Sid Meier's Civilization® III Complete,False,0,['Firaxis Games'],['2K'],['Strategy'],5704,"25 Oct, 2006",True,False,False,4.99
+1380400,Saving Grace,False,0,['Thomas JC Ironmonger'],['Ironmonger Games'],"['Action', 'Adventure', 'Indie', 'Strategy']",0,"2 Jan, 2021",True,False,False,1.99
+805550,Assetto Corsa Competizione,False,0,['Kunos Simulazioni'],['505 Games'],"['Rennspiele', 'Simulationen', 'Sport']",33622,29. Mai 2019,True,False,False,39.99
+41000,Serious Sam HD: The First Encounter,False,0,['Croteam'],['Devolver Digital'],"['Action', 'Indie']",7294,"24 Nov, 2009",True,False,False,1.49
+1284190,The Planet Crafter,False,0,['Miju Games'],['Miju Games'],['Adventure'],68330,"10 Apr, 2024",True,False,False,11.99
+2064650,Tower of Fantasy,True,0,['Hotta Studio'],['Perfect World Games'],"['Action', 'Massively Multiplayer', 'RPG', 'Free To Play']",0,"19 Oct, 2022",True,False,False,0.0
+56400,"Warhammer 40,000: Dawn of War II: Retribution",False,18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']","['SEGA', 'Feral Interactive (Mac/Linux)']",['Strategy'],7909,,True,True,True,0.0
+585420,Trailmakers,False,0,['Flashbulb'],['Flashbulb'],"['Action', 'Adventure', 'Indie', 'Racing', 'Simulation']",33262,"18 Sep, 2019",True,False,False,24.99
+1562430,DREDGE,False,0,['Black Salt Games'],['Team17'],"['Adventure', 'RPG']",47383,"30 Mar, 2023",True,True,False,10.79
+1987080,Inside the Backrooms,False,0,['MrFatcat'],"['MrFatcat', 'Dropsiick']","['Adventure', 'Indie', 'Early Access']",38790,"20 Jun, 2022",True,False,False,6.99
+666220,CS2D,True,0,['Unreal Software'],['Unreal Software'],"['Action', 'Casual', 'Indie', 'Free To Play']",0,"15 Nov, 2017",True,False,True,0.0
+529340,Victoria 3,False,0,['Paradox Development Studio'],['Paradox Interactive'],"['Simulation', 'Strategy']",42166,"25 Oct, 2022",True,True,True,49.99
+245620,Tropico 5,False,0,['Haemimont Games'],['Kalypso Media Digital'],"['RPG', 'Simulation', 'Strategy']",9797,"23 May, 2014",True,False,True,6.99
+657200,Hand Simulator,False,0,['HFM Games'],['HFM Games'],['Simulation'],28409,"18 Jul, 2017",True,False,False,2.99
+6850,Hitman 2: Silent Assassin,False,16,['Io-Interactive A/S'],['Io-Interactive A/S'],['Action'],3737,"15 Mar, 2007",True,False,False,0.89
+209160,Call of Duty®: Ghosts,False,16,['Infinity Ward'],['Activision'],['Action'],12898,"25 Mar, 2014",True,False,False,39.99
+1388770,Cruelty Squad,False,0,['Consumer Softproducts'],['Consumer Softproducts'],"['Action', 'Indie', 'Simulation']",23129,"15 Jun, 2021",True,False,False,22.79
+603850,Age of History II,False,0,['Łukasz Jakowski'],['Łukasz Jakowski Games'],['Strategy'],47578,"21 Nov, 2018",True,False,False,5.99
+32430,STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition,False,0,['LucasArts'],"['LucasArts', 'Lucasfilm', 'Disney']",['Action'],8719,"15 Dec, 2009",True,True,False,19.5
+253900,Knights and Merchants,False,0,['Topware Interactive'],['Topware Interactive'],"['Simulation', 'Strategy']",2790,"14 Oct, 2013",True,True,True,9.75
+1113000,Persona 4 Golden,False,17,['ATLUS'],['SEGA'],['RPG'],71132,"Jun 13, 2020",True,False,False,19.99
+1016920,Unrailed!,False,0,['Indoor Astronaut'],['Daedalic Entertainment'],"['Action', 'Casual', 'Indie']",13758,"23 Sep, 2020",True,True,True,2.99
+955050,Bright Memory,False,0,['FYQD-Studio'],"['FYQD-Studio', 'PLAYISM']","['Action', 'Adventure', 'Indie']",30166,"25 Mar, 2020",True,False,False,6.59
+1929610,Demonologist,False,0,['Clock Wizard Games'],['Clock Wizard Games'],"['Action', 'Adventure', 'Indie']",18823,"25 Sep, 2023",True,False,False,19.5
+2096610,Crysis 3 Remastered,False,0,"['Crytek', 'Saber Interactive']",['Crytek'],['Action'],7695,"17 Nov, 2022",True,False,False,29.99
+1850570,DEATH STRANDING DIRECTOR'S CUT,False,0,['KOJIMA PRODUCTIONS'],[' 505 Games'],"['Action', 'Adventure']",49430,"30 Mar, 2022",True,False,False,39.99
+446800,Transport Fever,False,0,['Urban Games'],['Good Shepherd Entertainment'],['Simulation'],9278,"8 Nov, 2016",True,True,True,29.99
+209160,Call of Duty®: Ghosts,False,16,['Infinity Ward'],['Activision'],['Action'],12898,"25 Mar, 2014",True,False,False,39.99
+250400,How to Survive,False,0,['Eko Software'],['505 Games'],"['Action', 'Adventure', 'RPG']",13987,"29 Aug, 2014",True,False,False,14.99
+1296830,暖雪 Warm Snow,False,0,['BadMudStudio'],['bilibili'],"['Action', 'Adventure', 'Indie', 'RPG']",35234,"18 Jan, 2022",True,False,False,14.99
+1211020,Wobbly Life,False,0,['RubberBandGames'],['RubberBandGames'],"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation']",32778,"18 Sep, 2025",True,False,False,24.99
+410320,EARTH DEFENSE FORCE 4.1 The Shadow of New Despair,False,0,['SANDLOT'],['D3PUBLISHER'],['Action'],7767,"18 Jul, 2016",True,False,False,16.79
+261110,Killer is Dead - Nightmare Edition,False,0,['KADOKAWA GAMES / GRASSHOPPER MANUFACTURE'],['Deep Silver'],['Action'],3879,"23 May, 2014",True,False,False,19.99
+208580,STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,False,0,"['Obsidian Entertainment', 'Aspyr (Mac, Linux, & Windows Update)']","['LucasArts', 'Lucasfilm', 'Aspyr (Mac, Linux)']",['RPG'],22326,"23 Aug, 2012",True,True,True,9.75
+775500,SCARLET NEXUS,False,0,['BANDAI NAMCO Studios Inc.'],['BANDAI NAMCO Entertainment'],"['Action', 'Adventure', 'RPG']",13734,"24 Jun, 2021",True,False,False,7.99
+447820,Day of Infamy,False,0,['New World Interactive'],['New World Interactive'],"['Action', 'Indie', 'Strategy']",17519,"23 Mar, 2017",True,True,True,12.49
+1599600,PlateUp!,False,0,"[""It's happening""]","['Yogscast Games', 'Gamersky Games']","['Action', 'Casual', 'Indie', 'Strategy']",18444,"4 Aug, 2022",True,False,False,19.5
+475550,Beholder,False,1,['Alawar Stargaze (Warm Lamp Games)'],['Alawar'],"['Adventure', 'Indie', 'Strategy']",23160,"9 Nov, 2016",True,True,True,13.79
+257510,The Talos Principle,False,0,['Croteam'],"['Devolver Digital', 'Croteam']","['Action', 'Adventure', 'Indie']",29216,"11 Dec, 2014",True,True,True,28.99
+474960,Quantum Break,False,0,['Remedy Entertainment'],['Xbox Game Studios'],['Action'],23089,"29 Sep, 2016",True,False,False,36.99
+237110,Mortal Kombat Komplete Edition,False,18,"['NetherRealm Studios', 'High Voltage Software']",['Warner Bros. Interactive Entertainment'],['Action'],12126,,True,False,False,0.0
+444640,Bloons TD Battles,True,0,['Ninja Kiwi'],['Ninja Kiwi'],"['Action', 'Strategy', 'Free To Play']",339,"20 Apr, 2016",True,True,False,0.0
+843380,Super Animal Royale,True,0,['Pixile'],['Pixile'],"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'Free To Play']",6456,"26 Aug, 2021",True,True,False,0.0
+560130,Pillars of Eternity II: Deadfire,False,0,['Obsidian Entertainment'],"['Versus Evil', 'Obsidian Entertainment', 'Xbox Game Studios']",['RPG'],14637,"8 May, 2018",True,True,True,19.99
+4760,Rome: Total War™ - Collection,False,0,['CREATIVE ASSEMBLY'],['SEGA'],['Strategy'],13060,"28 Aug, 2007",True,False,False,0.0
+568220,Lobotomy Corporation | Monster Management Simulation,False,0,['ProjectMoon'],['ProjectMoon'],"['Indie', 'Simulation']",52326,"9 Apr, 2018",True,False,False,22.99
+257350,Baldur's Gate II: Enhanced Edition,False,0,['Beamdog'],['Beamdog'],"['Adventure', 'RPG']",9454,"15 Nov, 2013",True,True,True,19.5
+202750,Alan Wake's American Nightmare,False,0,['Remedy Entertainment'],['Remedy Entertainment'],"['Action', 'Adventure']",8294,"22 May, 2012",True,False,False,0.87
+34870,Sniper: Ghost Warrior 2,False,17,['City Interactive'],['CI Games'],['Action'],13687,"11 Mar, 2013",True,False,False,9.99
+1676130,Deadlink,False,0,['Gruby Entertainment'],['SuperGG.com'],"['Action', 'Indie']",2871,"27 Jul, 2023",True,False,False,24.5
+224540,Ace of Spades: Battle Builder,False,0,['Jagex Limited'],['Jagex Limited'],"['Action', 'Indie']",12542,,True,True,False,0.0
+699130,World War Z,False,0,['Saber Interactive Inc'],['Saber Interactive Inc'],['Action'],24788,"21 Sep, 2021",True,False,False,29.99
+816020,JUMP FORCE,False,0,"['Spike Chunsoft Co., Ltd.']",['BANDAI NAMCO Entertainment'],['Action'],16822,"14 Feb, 2019",True,False,False,0.0
+462780,Darksiders Warmastered Edition,False,0,"['KAIKO', 'Vigil Games']",['THQ Nordic'],"['Action', 'Adventure', 'RPG']",13904,"29 Nov, 2016",True,False,False,21.99
+681660,Bless Online,False,0,['NEOWIZ BLESS STUDIO'],['NEOWIZ'],"['Action', 'Adventure', 'Free To Play', 'Massively Multiplayer', 'RPG']",7112,"23 Oct, 2018",True,False,False,0.0
+8800,Civilization IV: Beyond the Sword,False,0,['Firaxis Games'],['2K'],['Strategy'],3874,"24 Jul, 2007",True,True,False,9.99
+448510,Overcooked,False,0,['Ghost Town Games Ltd.'],['Team17 Digital Ltd'],"['Action', 'Casual', 'Indie', 'Simulation']",13493,"3 Aug, 2016",True,False,False,3.19
+1307550,Craftopia,False,0,['Pocketpair'],['Pocketpair'],"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",18358,"4 Sep, 2020",True,False,False,14.7
+1129580,Medieval Dynasty,False,0,['Render Cube'],['Toplitz Productions'],"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",42929,"23 Sep, 2021",True,False,False,14.99
+460920,Steep™,False,0,"['Ubisoft Annecy', 'Ubisoft Montpellier', 'Ubisoft Kiev']",['Ubisoft'],"['Action', 'Sports']",30587,"2 Dec, 2016",True,False,False,29.99
+55110,Red Faction®: Armageddon™,False,18,['Volition'],['Deep Silver '],['Action'],2609,"9 Jun, 2011",True,False,False,19.99
+278080,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition,False,0,"['KOEI TECMO GAMES CO., LTD.']","['KOEI TECMO GAMES CO., LTD.']",['Action'],11878,"13 May, 2014",True,False,False,49.99
+996580,Spyro™ Reignited Trilogy,False,0,"['Toys for Bob', 'Iron Galaxy Studios']",['Activision'],"['Action', 'Adventure']",14153,"3 Sep, 2019",True,False,False,39.99
+108800,Crysis 2 - Maximum Edition,False,0,['Crytek Studios'],['Electronic Arts'],['Action'],9345,"22 Mar, 2011",True,False,False,29.99
+673950,Farm Together,False,0,['Milkstone Studios'],['Milkstone Studios'],"['Casual', 'Indie', 'Simulation']",17643,"11 Oct, 2018",True,True,True,19.99
+1094520,Sands of Salzaar,False,0,['汉家松鼠Han-Squirrel Studio'],['XD'],"['Adventure', 'Indie', 'RPG', 'Strategy']",21419,"15 Dec, 2021",True,False,False,12.49
+747660,Five Nights at Freddy's: Security Breach,False,0,['Steel Wool Studios'],['ScottGames'],"['Action', 'Adventure', 'Indie']",65285,"16 Dec, 2021",True,False,False,33.99
+6910,Deus Ex: Game of the Year Edition,False,16,['Ion Storm'],['Eidos Interactive Corp.'],['Action'],13718,"29 Mar, 2007",True,False,False,6.99
+239350,Spelunky,False,0,['Mossmouth'],['Mossmouth'],['Indie'],14663,"8 Aug, 2013",True,False,False,14.99
+215280,Secret World Legends,True,0,['Funcom'],['Funcom'],"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",4421,"31 Jul, 2017",True,False,False,0.0
+360430,Mafia III: Definitive Edition,False,18,"['Hangar 13', 'Aspyr (Mac)']","['2K', 'Aspyr (Mac)']","['Action', 'Adventure']",41432,"19 May, 2020",True,True,False,29.99
+673130,AMID EVIL,False,0,['Indefatigable'],['New Blood Interactive'],"['Action', 'Adventure', 'Indie']",6653,"20 Jun, 2019",True,False,False,19.49
+377300,Thunder Tier One,True,0,"['KRAFTON, Inc.']","['KRAFTON, Inc.']","['Action', 'Simulation', 'Free To Play']",4029,"7 Dec, 2021",True,False,False,0.0
+2552430,KINGDOM HEARTS -HD 1.5+2.5 ReMIX-,False,0,['Square Enix'],['Square Enix'],"['Action', 'Adventure', 'RPG']",10232,"13 Jun, 2024",True,False,False,49.99
+323850,Move or Die,False,0,"['Xelu', 'Those Awesome Guys']",['Those Awesome Guys'],"['Action', 'Indie']",16473,"21 Jan, 2016",True,False,True,14.99
+1030840,Mafia: Definitive Edition,False,18,['Hangar 13'],['2K'],"['Action', 'Adventure']",88609,"24 Sep, 2020",True,False,False,39.99
+823500,BONEWORKS,False,0,['Stress Level Zero'],['Stress Level Zero'],"['Action', 'Adventure', 'Indie', 'Simulation']",34133,"10 Dec, 2019",True,False,False,28.99
+841370,NBA 2K19,False,0,['Visual Concepts'],['2K'],"['Simulation', 'Sports']",15472,"10 Sep, 2018",True,False,False,0.0
+204340,Serious Sam II,False,0,['Croteam'],['Devolver Digital'],"['Action', 'Indie']",11881,"31 Jan, 2012",True,False,False,0.97
+794260,Outward Definitive Edition,False,0,['Nine Dots Studio'],"['Prime Matter', 'Deep Silver']",['RPG'],24609,"17 May, 2022",True,False,False,39.99
+2680010,The First Berserker: Khazan,False,17,['Neople'],['NEXON'],"['Action', 'Adventure', 'RPG']",20882,"Mar 27, 2025",True,False,False,59.99
+299460,Woodle Tree Adventures,False,0,['Fabio Ferrara'],['Chubby Pixel'],"['Action', 'Adventure', 'Indie']",1379,"2 Mar, 2016",True,True,True,3.99
+1755910,Capcom Arcade 2nd Stadium,True,0,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']","['Action', 'Free To Play']",211,"21 Jul, 2022",True,False,False,14.99
+1266680,Strobophagia | Rave Horror,False,0,['Green Tile Digital'],"['Green Tile Digital', 'THQ Nordic']","['Adventure', 'Indie']",0,"28 Oct, 2020",True,False,False,16.79
+265550,Dead Rising 3 Apocalypse Edition,False,18,['Capcom Game Studio Vancouver'],['Capcom'],['Action'],13812,"5 Sep, 2014",True,False,False,29.99
+246900,Viscera Cleanup Detail,False,0,['RuneStorm'],['RuneStorm'],"['Indie', 'Simulation']",18038,"23 Oct, 2015",True,True,False,12.79
+253960,Jack Orlando: Director's Cut,False,0,['Toontraxx Studios'],['Topware Interactive'],['Adventure'],243,"4 Oct, 2013",True,True,True,6.89
+450390,The Lab,True,0,['Valve'],['Valve'],['Free To Play'],415,"5 Apr, 2016",True,False,False,0.0
+920210,LEGO® Star Wars™: The Skywalker Saga,False,0,['TT Games'],"['Warner Bros. Games', 'Warner Bros. Interactive Entertainment']","['Action', 'Adventure']",38280,"5 Apr, 2022",True,False,False,49.99
+17480,Command & Conquer™ Red Alert™ 3,False,0,['EA Los Angeles'],['Electronic Arts'],"['Action', 'Strategy']",14584,"8 Jan, 2009",True,False,False,0.0
+249130,LEGO® Marvel™ Super Heroes,False,0,"[""Traveller's Tales""]",['Warner Bros. Interactive Entertainment'],"['Action', 'Adventure']",22545,"15 Nov, 2013",True,False,False,19.99
+1017180,The Long Drive,False,0,['Genesz'],['Genesz'],"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Early Access']",50103,"25 Sep, 2019",True,False,False,15.79
+26800,Braid,False,0,['Number None'],['Number None'],"['Casual', 'Indie', 'Strategy']",6940,"10 Apr, 2009",True,True,True,14.99
+640590,The LEGO® NINJAGO® Movie Video Game,False,0,"[""Traveller's Tales"", 'TT Games']",['Warner Bros. Interactive Entertainment'],['Action'],1908,"13 Oct, 2017",True,False,False,29.99
+1515210,The Past Within,False,0,['Rusty Lake'],['Rusty Lake'],"['Adventure', 'Indie']",14642,"2 Nov, 2022",True,True,False,5.99
+1147550,Not For Broadcast,False,0,['NotGames'],['tinyBuild'],"['Adventure', 'Indie', 'Simulation']",10313,"25 Jan, 2022",True,False,False,24.5
+434650,Lost Castle / 失落城堡,False,0,['Hunter Studio'],['Neon Doctrine'],"['Action', 'Adventure', 'Indie', 'RPG']",18407,"31 Aug, 2016",True,True,False,2.99
+1774580,STAR WARS Jedi: Survivor™,False,16,['Respawn'],['Electronic Arts'],"['Action', 'Adventure']",79710,"27 Apr, 2023",True,False,False,69.99
+431730,Aseprite,False,0,['Igara Studio'],['Igara Studio'],"['Animation & Modeling', 'Design & Illustration', 'Game Development']",21173,"22 Feb, 2016",True,True,True,20.49
+780310,The Riftbreaker,False,0,['EXOR Studios'],"['EXOR Studios', 'Surefire.Games']","['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']",22018,"14 Oct, 2021",True,False,False,8.99
+261030,The Walking Dead: Season Two,False,18,['Telltale Games'],['Skybound Games'],['Adventure'],26826,"17 Dec, 2013",True,True,False,14.79
+1328670,Mass Effect™ Legendary Edition,False,17,['BioWare'],['Electronic Arts'],"['Action', 'RPG']",62004,"May 14, 2021",True,False,False,59.99
+226840,Age of Wonders III,False,0,['Triumph Studios'],['Paradox Interactive'],"['RPG', 'Strategy']",7013,"31 Mar, 2014",True,True,True,29.99
+374040,Portal Knights,False,0,['Keen Games GmbH'],['505 Games'],"['Action', 'Adventure', 'RPG']",16871,"18 May, 2017",True,False,False,19.99
+668580,Atomic Heart,False,18,['Mundfish'],"['Focus Entertainment', '4Divinity', 'Mundfish']","['Action', 'Adventure', 'RPG']",39048,"20 Feb, 2023",True,False,False,59.99
+1044720,Farthest Frontier,False,0,['Crate Entertainment'],['Crate Entertainment'],"['Indie', 'Simulation', 'Strategy']",24332,"23 Oct, 2025",True,False,False,20.39
+544750,SOULCALIBUR VI,False,0,"['BANDAI NAMCO Studios Inc.', 'Dimps Corporation']",['BANDAI NAMCO Entertainment'],['Action'],9748,"18 Oct, 2018",True,False,False,59.99
+972660,Spiritfarer®: Farewell Edition,False,0,['Thunder Lotus'],['Thunder Lotus'],"['Adventure', 'Indie', 'Simulation']",47099,"18 Aug, 2020",True,True,True,30.49
+1150690,OMORI,False,0,"['OMOCAT, LLC']","['OMOCAT, LLC']","['Adventure', 'Indie', 'RPG']",79664,"25 Dec, 2020",True,True,False,22.79
