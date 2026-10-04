@@ -1,5 +1,6 @@
-matplotlib
-numpy
-pandas
-requests
-jupyter
+jupyter>=1.0,<2
+matplotlib>=3.8,<4
+nbconvert>=7.16,<8
+numpy>=1.26,<3
+pandas>=2.2,<4
+requests>=2.31,<3
